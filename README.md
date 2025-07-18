@@ -26,8 +26,7 @@ O relatório final está em um estágio intermediário. Não encontrei a versão
 
 Co-autoria com os orientadores:
 
-* Prof. Dr. Hanumant Shankar Sawant do Instituto Nacional de Pesquisas Espaciais
-- INPE
+* Prof. Dr. Hanumant Shankar Sawant do Instituto Nacional de Pesquisas Espaciais - INPE
 * Prof. Dr. Marcos Luiz Mucheroni do Departamento de Computação da UFSCar
 
 Disponibilizado em 18 de julho de 2025.

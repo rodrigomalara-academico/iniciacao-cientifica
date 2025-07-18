@@ -1,0 +1,154 @@
+
+
+
+
+
+Abaixo, segue a versao do IDL
+
+malara:~/box(32)arquimedes% idl
+IDL Version 5.0.2 (sunos sparc). Research Systems, Inc.
+Installation number: 15581-0.
+Licensed for use by: UFSCAR
+
+
+Plataforma/so: SUN SPARCstation 5, SOlaris 2.5.1 openwindows 3.5.1
+
+
+
+
+O diretorio onde esta sendo compilado o exemplo eh o /alunos/malara/box
+
+os arquivos deste diretorio estao listados abaixo
+
+malara:~/box(30)arquimedes% dir
+total 33
+-rw-r--r--   1 malara        377 Jun 24 11:25 child.c
+-rw-r--r--   1 malara        946 Jun  9 10:22 child.c%
+-rw-r--r--   1 malara       1124 Jun 24 11:25 example.c    <----
+-rw-r--r--   1 malara       1524 Jul  1 08:46 example.o    <----
+-rw-r--r--   1 malara         67 Jun 24 11:25 hello.c
+-rw-r--r--   1 malara       4338 Jul  1 08:36 idl_rpc.h    <----
+-rw-r--r--   1 malara        864 Jun 24 11:25 inter.h
+-rw-r--r--   1 malara        804 Jun 24 11:25 interf.c
+-rwxr-xr-x   1 malara       6961 Jun 24 11:27 main
+-rw-r--r--   1 malara       1041 Jun 24 11:25 main.c
+-rw-r--r--   1 malara         65 Jun 24 11:25 matrix.h
+-rw-r--r--   1 malara        833 Jun 24 11:25 pipe.h
+prw-r--r--   1 malara          0 Jun  9 09:47 pipe.pp
+-rw-r--r--   1 malara        241 Jun 24 11:25 pixel.h
+-rw-r--r--   1 malara       1042 Jul  1 08:38 teste.c
+-rw-r--r--   1 malara       1046 Jul  1 08:38 teste.c%
+-rw-r--r--   1 malara       2512 Jul  1 08:39 teste.o
+
+
+
+
+
+Para efeito de testes, estou utilizando o arquivo que vem com o
+IDL chamado "example.c" que foi copiado do diretorio
+/usr/local/rsi/idl/external/rpc
+assim como o arquivo "idl_rpc.h" que foi copiado do mesmo diretorio.
+
+
+O arquivo "external.h" foi copiado para o diretorio do include do cc, que 
+e o seguinte:
+/usr/include
+
+
+
+
+
+Abaixo consta a linha de compilacao, que gera o arquivo example.o
+Neste passo nao ha problemas...
+
+malara:~/box(28)arquimedes% cc -c example.c
+
+
+
+
+
+Abaixo, a linha de linker para o sistema operacional Solaris e maquina
+Sparc que foi retirada do arquivo "rpc_link.txt" no diretorio:
+/usr/local/rsi/idl/external/rpc
+
+Abaixo esta a linha de linker e os erros gerados....
+							
+malara:~/box(29)arquimedes% cc -o example -z defs -i -R/usr/local/rsi/idl/bin/bin.solaris2.sparc -L/usr/local/rsi/idl/bin/bin.solaris2.sparc example.o -lidl_rpc -lnsl
+example.o: In function `main':
+example.o(.text+0xc): undefined reference to `IDL_RPCInit'
+example.o(.text+0xbc): undefined reference to `IDL_RPCExecuteStr'
+example.o(.text+0xd8): undefined reference to `IDL_RPCCleanup'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `rgb_to_hsv'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `logit'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `raster_draw'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `delvar'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `widget_stub_lock'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `widget_stub_lock'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `close_file'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `print'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `raster_draw_thick'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `add_system_routine'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `raster_polyfill'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `widget_set_stub_ids'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `get_kw_params'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `dup_str'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `ez_call'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `graph_text'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `get_file_stat'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `lng'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `pout_raw'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `keyword_cleanup'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `idl_rline'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `print_f'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `get_kbrd'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `free_lun'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `bitmap_landscape'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `str_ensure_length'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `make_temp_array'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `double_scalar'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `get_lun'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `string'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `widget_x_send_bogus_cmsg'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `flt'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `dbl'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `polyfill_sfw'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `ur_bytscl'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `dither'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `widget_stub_lookup'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `var_error'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `deltmp'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `var_copy'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `byte'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `open_file'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `basic_type_conversion'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `str_store'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `rgb_to_hls'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `bail_out'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `widget_issue_stub_event'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `store_scalar'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `ret_str_as_STRING'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `fix'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `ur_wait'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `set_file_close'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `ur_main'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `get_user_info'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `declare_exit_handler'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `ur_complex'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `ensure_file_status'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `get_var_addr'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `import_array'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `long_scalar'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `make_array'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `freetmp'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `ez_call_cleanup'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `flush_file_unit'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `gettmp'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `getscratch'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `varname'
+/usr/local/rsi/idl/bin/bin.solaris2.sparc/libidl_rpc.so: undefined reference to `del_str'
+
+
+Convem salientar que o mesmo programa foi testado para o Linux, utilizando a linha de linker
+especifica para o Linux (retirada do rpc_link.txt) e tudo funcionou perfeitamente.
+
+Desde ja agradeco...						Rodrigo

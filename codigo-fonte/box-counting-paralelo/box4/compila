@@ -1,0 +1,1 @@
+cc -o teste -z defs -i -R . -L. teste.o -lidl_rpc -lnsl

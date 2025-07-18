@@ -1,0 +1,3825 @@
+From rosangel@leao Fri Aug  8 08:45 EST 1997
+Return-Path: <rosangel@leao>
+Received: from leopardo.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA29331; Fri, 8 Aug 1997 08:45:23 -0300
+Received: by leopardo.ufscar.br (SMI-8.6/SMI-SVR4)
+	id IAA18284; Fri, 8 Aug 1997 08:42:53 -0300
+Date: Fri, 8 Aug 1997 08:42:53 -0300
+From: rosangel@leao (Rosangela A Delloso Penteado)
+Message-Id: <199708081142.IAA18284@leopardo.ufscar.br>
+To: adriana@leao
+Subject: II WORKSHOP DE PESQUISAS DE TESE EM ENGENHARIA DE SOFTWARE
+Cc: akeiji@leao, albany@leao, aldo@leao, alencar@leao, alex@leao, elaine@leao,
+        juliano@leao, pu2_spr@leao, elisa@lsi.usp.br, julio@leao, rafael@leao,
+        elson@leao, katia@leao, raimundo@leao, emerson@leao, kawamoto@leao,
+        ramos@leao, erica@leao, koiti@leao, reis@leao, euclides@leao,
+        lauro@leao, renataap@leao, alexis@leao, fabri@leao, leduardo@leao,
+        renato@leao, alonso@leao, falcao@leao, lemos@leao, rferrari@leao,
+        aluizio@leao, felicio@leao, lgdias@leao, ribeiro@leao, alvaro@leao,
+        fernanda@leao, liliane@leao, ricardo@leao, ambrosio@leao,
+        fernando@leao, lopes@leao, roberta@leao, amgm@leao, ferreira@leao,
+        lribeiro@leao, rodney@leao, analucia@leao, figueira@leao, luciano@leao,
+        rodrigo@leao, anapaula@leao, flavia@leao, macedo@leao, rogeria@leao,
+        andrea@leao, flaviar@leao, malara@leao, roxana@leao, angelis@leao,
+        flavio@leao, marcelo@leao, rsilva@leao, antonio@leao, fraga@leao,
+        marcio@leao, rubem@leao, apfukuda@leao, franserg@leao, marcot@leao,
+        salvador@leao, apguerra@leao, freire@leao, marcus@leao, sandro@leao,
+        aragao@leao, fyui@leao, maria@leao, santana@leao, asilvia@leao,
+        galan@leao, marilde@leao, sbrcorg@leao, bambam@leao, garcon@leao,
+        mario@leao, sena@leao, barbosa@leao, giandri@leao, marisa@leao,
+        silvia@leao, barrere@leao, gimenez@leao, marlos@leao,
+        rocio@icmsc.sc.usp.br, bellezi@leao, giovana@leao, matheus@leao,
+        sirbone@leao, bingo@leao, gisele@leao, max@leao, sonia@leao,
+        bonafe@leao, giulliano@leao, maylinch@leao, spagnol@leao, borges@leao,
+        glauco@leao, mcagnin@leao, spang@leao, botao@leao, godoy@leao,
+        minillo@leao, tathiana@leao, branco@leao, gomes@leao, mkubo@leao,
+        tedi@leao, bressan@leao, gondo@leao, moacyr@leao, teixeira@leao
+X-Sun-Charset: ISO-8859-1
+Content-Type: text
+Content-Length: 3479
+X-Lines: 87
+Status: RO
+
+				XI SBES
+	II WORKSHOP DE	PESQUISAS DE TESE EM ENGENHARIA DE SOFTWARE
+			Fortaleza, 13 de outubro 1997
+				 Ceara
+
+OBJETIVO
+
+O Workshop de Pesquisas de Tese em Engenharia de Software eh um evento que tem 
+como objetivo reunir pesquisadores de varias instituicoes com o objetivo de
+mostrar as pesquisas de tese em andamento na area e trocar experiencias de temasde interesse comum.
+O Workshop sera realizado em conjunto com o XI Simposio Brasileiro de Engenhariade Software no dia 13 de outubro de 1997.
+
+COMUNICACOES
+
+Serao aceitas comunicacoes para apresentacao e publicacao nos Anais do Workshop,sendo que os topicos abordados sao os mesmos do SBES (abaixo relacionados).
+As comunicacoes devem ter no maximo 3 paginas A4. A primeira pagina deve 
+conter o titulo do trabalho em letra maiusculas, nome do autor, nome(s) do(s) 
+orientador(es), afiliacao e endereco. O texto deve comecar imediatamente abaixo e conter referencias bibliograficas.Usar margens laterais de 2,5 cm, superior e inferior de 2,0 cm. Fonte TimesNewRoman, corpo 12. Nao numerar as paginas.  
+A submissao de comunicacoes devera ser feita ate o dia 10 de agosto acompanhada, obrigatoriamente, da ficha de inscricao do apresentador (ANEXA), de carta do orientador concordando e autorizando a apresentacao e publicacao do resumo de tese, e, do cheque nominal em nome do XI SBES no valor da inscricao, que eh de R$ 25,00 (vinte e cinco reais).
+
+TÓPICOS
+
+
+     Aspectos sociais da Engenharia de Software 
+     Engenharia de Requisitos 
+     Aplicações Industriais de Engenharia de Software 
+     Fundamentos Teóricos da Engenharia de Software 
+     Métodos, Técnicas, Linguagens, Ferramentas e Ambientes
+     Manutenção de Software
+     Paradigma de Orientação a Objetos 
+     Processo de Software: Modelos e Formalização 
+     Reutilização: Teoria e Prática 
+     Verificação, Validação e Teste de Software 
+     Qualidade de Software 
+     Re-engenharia de Software 
+     Métodos e Técnicas Empíricas de Engenharia de Software 
+     Desenvolvimento de Software para a Internet 
+     Engenharia de Software Cooperativa Apoiada por
+     Computador 
+     Novas Tendências na área de Engenharia de Software 
+
+ Artigos sobre outros tópicos da área também poderão ser aceitos.
+
+
+ENVIO DAS COMUNICACOES
+
+As comunicacoes e inscricoes para o Workshop devem ser enviadas para:
+
+	Rosangela Penteado e/ou Sandra Fabbri
+	UFSCar
+	Departamento de Computacao
+	Caixa Postal 676 - CEP 13565-905 - Sao Carlos - SP
+
+ORGANIZACAO
+	Rosangela D. Penteado (DC/UFSCar)
+	Sandra C. P. F. Fabbri (DC/UFSCar)
+	Jose Bezerra da Silva Filho 
+
+INFORMACOES
+	Isabel Broggio  (016) 274-8232  ou
+	e-mail:  rosangel@dc.ufscar.br
+		 sandraf@dc.ufscar.br
+		 bezerra@bnb.gov.br
+
+==========================================================================
+
+			FICHA DE INSCRICAO 
+	II WORKSHOP DE TESES EM ANDAMENTO EM ENGENHARIA DE SOFTWARE
+
+
+Nome:_______________________________________________________________
+
+Endereco __________________________________________________________
+
+___________________________________________________________________
+
+e-mail:___________________________________
+
+Universidade/Departamento ____________________________________________
+
+Orientador ________________________________________________________
+
+Area do trabalho(de acordo com as da chamada) _____________________________
+
+ 		___________________________________________________________
+
+Cheque do Banco _____________________________     nro______________________
+
+From sandrab@tigre.dc.ufscar.br Mon Nov 17 12:08 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA13025; Mon, 17 Nov 1997 12:08:11 -0200
+Received: from power.ufscar.br (power.ufscar.br [200.9.84.65]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id LAA10781 for <estag98-l@tigre.dc.ufscar.br>; Mon, 17 Nov 1997 11:08:25 -0200
+Received: from  by power.ufscar.br via SMTP (951211.SGI.8.6.12.PATCH1502/911001.SGI)
+	for <estag98-l@tigre.dc.ufscar.br> id MAA00426; Mon, 17 Nov 1997 12:03:59 -0300
+Message-Id: <3470A273.E58@geocities.com>
+Date: Mon, 17 Nov 1997 12:00:51 -0800
+From: Rodrigo Fonseca da Fonseca <rodrigoff@geocities.com>
+Reply-To: rodrigoff@geocities.com
+Organization: DC-UFSCar
+X-Mailer: Mozilla 3.0Gold (Win16; I)
+Mime-Version: 1.0
+To: estag98-l@tigre.dc.ufscar.br
+Subject: Carona pra Integris
+Content-Transfer-Encoding: quoted-printable
+X-Mime-Autoconverted: from 8bit to quoted-printable by tigre.dc.ufscar.br id LAA10782
+X-Lines: 4
+Content-Transfer-Encoding: quoted-printable
+Status: RO
+X-Status: 
+Content-Type: text/plain; charset="iso-8859-1"; conversions="quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable"
+Content-Length: 168
+
+Quem for pra Integris amanh=E3o, ter=E7a - 18/11, tenho carona pra duas
+pessoas. Mais detalhes falar comigo!!
+
+                                        Rodrig=E3o BCC95
+
+From sandrab@tigre.dc.ufscar.br Mon Nov 17 12:44 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA13207; Mon, 17 Nov 1997 12:44:54 -0200
+Received: from polvo.ufscar.br (root@polvo.ufscar.br [200.9.84.79]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with ESMTP id LAA11113 for <estag98-l@tigre.dc.ufscar.br>; Mon, 17 Nov 1997 11:44:39 -0200
+Received: from [200.18.97.65] ([200.18.97.65]) by polvo.ufscar.br (8.7.5/8.7.3) with SMTP id MAA03083 for <estag98-l@tigre.dc.ufscar.br>; Mon, 17 Nov 1997 12:39:08 -0200
+X-Authentication-Warning: polvo.ufscar.br: Host [200.18.97.65] didn't use HELO protocol
+Message-Id: <3470AB05.496F@polvo.ufscar.br>
+Date: Mon, 17 Nov 1997 12:37:25 -0800
+From: Luciano Cerqueira <g142727@polvo.ufscar.br>
+X-Mailer: Mozilla 3.0Gold (Win16; I)
+Mime-Version: 1.0
+To: estag98-l@tigre.dc.ufscar.br
+Subject: Mais um
+Content-Transfer-Encoding: 7bit
+X-Lines: 6
+Status: RO
+X-Status: 
+Content-Type: text/plain; charset="us-ascii"; conversions="7bit, 7bit, 7bit, 7bit, 7bit, 7bit, 7bit, 7bit, 7bit, 7bit, 7bit, 7bit"
+Content-Length: 157
+
+A Accor (do Ticket Restaurante) esta' selecionando estagiarios
+e trainees. Cadastrem-se em
+http://www.accorbrasil.com.br/trainee/index.asp.
+
+Falou,
+Luciano.
+
+From sandrab@tigre.dc.ufscar.br Mon Nov 17 15:38 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA15273; Mon, 17 Nov 1997 15:38:47 -0200
+Received: from hotmail.com (F94.hotmail.com [207.82.250.200]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id OAA13401 for <estag98-l@tigre.dc.ufscar.br>; Mon, 17 Nov 1997 14:38:47 -0200
+Received: (qmail 16720 invoked by uid 0); 17 Nov 1997 17:34:00 -0000
+Received: from 200.18.97.71 by www.hotmail.com with HTTP;
+	Mon, 17 Nov 1997 09:33:59 PST
+Message-Id: <19971117173400.16719.qmail@hotmail.com>
+X-Originating-Ip: [200.18.97.71]
+From: "Marcelo Bo" <teruhikobo@hotmail.com>
+To: estag98-l@tigre.dc.ufscar.br
+Subject: Estágio na EDS do Brasil
+Date: Mon, 17 Nov 1997 09:33:59 PST
+X-Lines: 11
+Status: RO
+X-Status: 
+Content-Type: text/plain
+Content-Length: 398
+
+Atenção , moçada!
+
+Recebi uma chamada para participar do processo de seleção da EDS. É para 
+desenvolvimento de software para mainframes, em São Bernardo do Campo. A 
+EDS presta serviços para a GM. Quem quiser maiores detalhes deve ligar 
+para (011)828-4146. Seja breve!
+
+Batata - EnC94
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+From podium@convex.com.br Mon Nov 17 19:12 EDT 1997
+Return-Path: <podium@convex.com.br>
+Received: from cvxnt2.convex.com.br by leao (5.x/SMI-SVR4)
+	id AA17676; Mon, 17 Nov 1997 19:11:57 -0200
+Received: from pateta (unverified [200.246.2.27]) by cvxnt2.convex.com.br
+ (EMWAC SMTPRS 0.83) with SMTP id <B0000365378@cvxnt2.convex.com.br>;
+ Mon, 17 Nov 1997 19:08:34 -0200
+Message-Id: <B0000365378@cvxnt2.convex.com.br>
+From: "Rogerio Coutinho" <podium@convex.com.br>
+To: <malara@dc.ufscar.br>
+Subject: Dicas
+Date: Mon, 17 Nov 1997 19:12:23 -0200
+X-Msmail-Priority: Normal
+X-Priority: 3
+X-Mailer: Microsoft Internet Mail 4.70.1155
+Mime-Version: 1.0
+Content-Transfer-Encoding: 8bit
+X-Lines: 35
+Status: RO
+X-Status: 
+Content-Type: text/plain; charset="ISO-8859-1"; conversions="8bit, 8bit, 8bit, 8bit, 8bit, 8bit, 8bit, 8bit, 8bit, 8bit, 8bit, 8bit, 8bit"
+Content-Length: 1298
+
+    :-:-:-:-:-:-:-:-:-
+PODIUM - Tecnologia em Redes
+(016) 625 - 5874
+Ribeirao Preto - SP
+:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-
+E ai Rodrigo, Beleza ?
+
+O livro é otimo, deu pra aprender bastante coisa com ele, essa semana vou
+deixa-lo na casa das meninas. depois se por acaso precisar dar mais uma
+olhada te dou um toque ok?
+Quanto as provas do MCSE aqui em Ribeirão vc pode fazer na LAN UNIVERSITY
+(016) 624 5736, voce pode entrar em contato com o Alexandre. Você pode
+falar que é amigo do Rogério que fez curso lá (O Rogério é meu sócio e
+amigo do Alexandre)
+
+Em São Paulo, vc pode fazer as provas na NETWISE (0800) 137 435. a NETWISE
+fica na Av. Paulista, 548 - 5º andar. em frente a estação Brigadeiro do
+Metrô. As pessoas responsáveis pelos exames são 
+Célia -> até as 16:30 h
+Cristiane -> das 16:30 as 22:00 h
+as provas do MCSE custam R$ 80,00 cada uma.
+Na NETWISE você pode agendar a prova pra qualquer horario entre 8:00 e
+20:00, pode ser pago com cartao de crédito (- o VISA)
+
+Uma sugestão: convém vc fazer primeiro o exame 70-058 (Networking
+essentials). esse exame é meio que pré requisito para os outros. fazendo
+ele primeiro, voce vai ter mais facilidade pra frente !
+
+Qualquer coisa em que puder te ajudar é só dar um toque.
+
+Um Abraço
+
+Seu Primo 
+LUIZ
+
+
+From sandrab@tigre.dc.ufscar.br Fri Nov 21 10:06 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA21330; Fri, 21 Nov 1997 10:06:12 -0200
+Received: from leao (leao.dc.ufscar.br [200.18.99.4]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id JAA21752 for <estag98-l@tigre>; Fri, 21 Nov 1997 09:05:55 -0200
+Received: by leao (5.x/SMI-SVR4)
+	id AA21317; Fri, 21 Nov 1997 10:05:07 -0200
+Date: Fri, 21 Nov 1997 10:05:07 -0200
+From: tiemi@leao.dc.ufscar.br (Tiemi Christine Sakata - ITI Profa. Rosangela)
+Message-Id: <9711211205.AA21317@leao>
+To: estag98-l@tigre.dc.ufscar.br
+Subject: estagio
+X-Sun-Charset: ISO-8859-1
+Content-Type: text
+Content-Length: 141
+X-Lines: 8
+Status: RO
+X-Status: 
+
+
+	Pessoal, olha o mail que recebi. Se alguem estiver interessado em 
+estagiar na Informix...
+
+				Tiemi
+
+
+----- Begin Included Message -----
+
+From smiyuki@informix.com Thu Nov 20 17:25 EDT 1997
+X-Sender: smiyuki@brazil
+X-Priority: 1 (Highest)
+Date: Thu, 20 Nov 1997 17:15:53 -0200
+To: tiemi@dc.ufscar.br (Tiemi Christine Sakata - ITI Profa. Rosangela)
+From: Sueli Miyuki Yasuda <smiyuki@informix.com>
+Subject: estagio
+Mime-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Length: 457
+X-Lines: 24
+Status: RO
+X-Status: 
+
+	Ola´ garotinha!
+
+
+	Como estao as coisas? Precisamos conversar...
+	Ja se arranjou para o ano que vem? Tem uma proposta super legal por aqui,
+se quiser inicio imediato. Trabalhar com web e banco, se tiver conhecimento
+minimo que seja, ajuda muito mas nao eh essencial. Basta boa vontade e
+muita esperteza.
+	Se ja estiver arranjada, sabe me indicar alguem?
+	
+
+
+				ASAP
+
+
+	Depois mando-lhe um mail mais calmo.
+
+
+
+Bjinhos
+Mi
+
+----- End Included Message -----
+
+
+From sandrab@tigre.dc.ufscar.br Fri Nov 21 10:12 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA21501; Fri, 21 Nov 1997 10:12:48 -0200
+Received: from leao (leao.dc.ufscar.br [200.18.99.4]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id JAA21766 for <estag98-l@tigre>; Fri, 21 Nov 1997 09:12:34 -0200
+Received: from leopardo.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA21431; Fri, 21 Nov 1997 10:11:45 -0200
+Received: by leopardo.ufscar.br (SMI-8.6/SMI-SVR4)
+	id KAA16318; Fri, 21 Nov 1997 10:13:27 -0200
+Date: Fri, 21 Nov 1997 10:13:27 -0200
+From: grazia@leao.dc.ufscar.br (Monica de Grazia Henrique - ITI - Prof. Rosangela Ap. D. Penteado)
+Message-Id: <199711211213.KAA16318@leopardo.ufscar.br>
+To: estag98-l@tigre.dc.ufscar.br
+Subject: Estagio
+X-Sun-Charset: US-ASCII
+Content-Type: text
+Content-Length: 603
+X-Lines: 23
+Status: RO
+X-Status: 
+
+
+A Icaro Informatica eh uma empresa situada em Campinas que atua no
+desenvolvimento de software nas areas de redes e telecomunicacoes.
+Ela esta selecionando profissionais para trabalho ou estagio.
+
+Conhecimentos necessarios:
+- C e C++
+- UNIX
+- Nocoes de redes de computadores
+
+Conhecimentos desejaveis:
+- Program. Windows (NT e 95)
+- Java
+- TCP/IP e OSI (especialmente SNMP e CMIP)
+- Ingles
+
+Os interessados devem enviar e-mail, com breve curriculo e telefone (ou forma equivalente) de 
+contato, para:
+        kleber@nutecnet.com.br
+Atenciosamente,
+
+        - Kleber Stroeh.
+        (Icaro Informatica)
+
+From sandrab@tigre.dc.ufscar.br Tue Nov 25 17:29 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA02036; Tue, 25 Nov 1997 17:29:35 -0200
+Received: from leao (leao.dc.ufscar.br [200.18.99.4]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id QAA01024 for <estag98-l@tigre>; Tue, 25 Nov 1997 16:16:34 -0200
+Received: by leao (5.x/SMI-SVR4)
+	id AA01569; Tue, 25 Nov 1997 17:15:10 -0200
+Date: Tue, 25 Nov 1997 17:15:10 -0200
+From: sandrab@leao.dc.ufscar.br (Sandra Abib)
+Message-Id: <9711251915.AA01569@leao>
+To: estag98-l@tigre.dc.ufscar.br
+Subject: Agendar testes da NEC - urgente
+Cc: sandrab@leao.dc.ufscar.br
+X-Sun-Charset: US-ASCII
+Content-Type: text
+Content-Length: 1025
+X-Lines: 23
+Status: RO
+X-Status: 
+
+	Oi pessoal, olha o que eu recebi da NEC. PReciso marcar a 
+data para o teste, e ele precisa ser no dia 1/12.
+	Quero a confirmacao de voces para o meu acerto final com
+a empresa. Confirmem na secretaria com a ANA.
+	Bye,
+		Sandra
+		***************************************
+
+
+Bom dia professora.  Tudo bem?  Os testes sao  para ingresso na NEC, na
+area de comutacao publica, em principio, podendo ser estendido a outras
+areas. Poderemos estar testendo tanto o pessoal do bacharelado quanto o
+da engenharia, desde que tenham disponibilidade para estagiar no proximo
+semestre e que nao ultrapassem muito o no. de 30 alunos. Disponibilizei
+minha agenda para 2a. feira 01/12 - 13hs. em funcao de uma viagem que
+terei que fazer para MG no final de semana e S Carlos fica mais ou menos
+no meio do caminho, poupando assim nosso tempo e disposicao. Agradeco o
+que puder fazer para a realizacao deste teste naquele dia. Um abraco do
+Carlos Augusto.
+
+	*******************************************************
+
+	Todos os cursos (BCC e EnC)
+
+From fgsoft@techs.com.br Thu Nov 27 10:10 EDT 1997
+Return-Path: <fgsoft@techs.com.br>
+Received: from www.techs.com.br ([200.246.30.253]) by leao (5.x/SMI-SVR4)
+	id AA24912; Thu, 27 Nov 1997 10:10:35 -0200
+Received: from techs.com.br.techs.com.br (unverified [200.246.30.110]) by www.techs.com.br
+ (EMWAC SMTPRS 0.83) with SMTP id <B0000233281@www.techs.com.br>;
+ Thu, 27 Nov 1997 09:05:23 -0300
+Message-Id: <347DB701.5244@techs.com.br>
+Date: Thu, 27 Nov 1997 10:08:01 -0800
+From: fgsoft@techs.com.br
+Reply-To: fgsoft@techs.com.br
+X-Mailer: Mozilla 3.01Gold [pt] (Win95; I; 16bit)
+Mime-Version: 1.0
+To: malara@dc.ufscar.br
+Subject: Curso
+Content-Transfer-Encoding: 8bit
+X-Lines: 12
+Status: RO
+X-Status: 
+Content-Type: text/plain; charset="iso-8859-1"; conversions="8bit, 8bit, 8bit, 8bit, 8bit, 8bit, 8bit, 8bit, 8bit, 8bit, 8bit, 8bit"
+Content-Length: 326
+
+Rodrigo.
+
+	Tenho algumas pessoas interessadas em fazer um curso de Delphi,
+gostaria de saber se e' de seu interesse ministrar essas aulas aqui na
+F&G.
+	Caso haja interesse de sua parte me passe quanto vc cobraria por hora,
+quanto tempo duraria o curso e quais os horarios disponiveis.
+
+	Abraços
+
+	Carlos Dian
+	F&G Informatica
+
+From sandrab@tigre.dc.ufscar.br Thu Nov 27 10:21 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA25128; Thu, 27 Nov 1997 10:21:52 -0200
+Received: from leao (leao.dc.ufscar.br [200.18.99.4]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id JAA03701 for <estag98-l@tigre>; Thu, 27 Nov 1997 09:22:10 -0200
+Received: from leopardo.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA25112; Thu, 27 Nov 1997 10:20:58 -0200
+Received: by leopardo.ufscar.br (SMI-8.6/SMI-SVR4)
+	id KAA24864; Thu, 27 Nov 1997 10:22:33 -0200
+Date: Thu, 27 Nov 1997 10:22:33 -0200
+From: grazia@leao.dc.ufscar.br (Monica de Grazia Henrique - ITI - Prof. Rosangela Ap. D. Penteado)
+Message-Id: <199711271222.KAA24864@leopardo.ufscar.br>
+To: estag98-l@tigre.dc.ufscar.br
+Subject: Estagio BankBoston
+X-Sun-Charset: US-ASCII
+Content-Type: text
+Content-Length: 576
+X-Lines: 19
+Status: RO
+X-Status: 
+
+
+ Estagio BankBoston - Sao Paulo
+ 
+
+        Alunos com interesse/conhecimento nas seguintes areas:
+
+        - Sistemas distribuidos;
+        - Metodologia de sist.: Analise estruturada;
+        - Orientacao a Objetos;
+        - C e UNIX;
+        - Administracao de Redes 
+
+        O Banco oferece bolsa-auxilio e demais beneficios. Procura-se
+preferencialmente alunos com previsao de formatura em dezembro de 98.
+
+        Os interessados devem entrar em contato com:
+        Fernando Pajares:
+        (011) 249 5927 - das 9:00 as 18:00hs
+        (019) 233 4784 - Apos 20:30hs
+
+From sandrab@tigre.dc.ufscar.br Thu Nov 27 10:24 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA25216; Thu, 27 Nov 1997 10:24:28 -0200
+Received: from leao (leao.dc.ufscar.br [200.18.99.4]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id JAA03729 for <estag98-l@tigre>; Thu, 27 Nov 1997 09:25:12 -0200
+Received: from leopardo.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA25208; Thu, 27 Nov 1997 10:24:00 -0200
+Received: by leopardo.ufscar.br (SMI-8.6/SMI-SVR4)
+	id KAA24933; Thu, 27 Nov 1997 10:25:35 -0200
+Date: Thu, 27 Nov 1997 10:25:35 -0200
+From: grazia@leao.dc.ufscar.br (Monica de Grazia Henrique - ITI - Prof. Rosangela Ap. D. Penteado)
+Message-Id: <199711271225.KAA24933@leopardo.ufscar.br>
+To: estag98-l@tigre.dc.ufscar.br
+Subject: Estagio CENAPAD-SP
+X-Sun-Charset: US-ASCII
+Content-Type: text
+Content-Length: 1424
+X-Lines: 34
+Status: RO
+X-Status: 
+
+
+################################################################################
+#                               Oportunidade de Estagio                        #
+#       Centro Nacional de Processamento de Alto Desempenho em Sao Paulo       #
+#                                     CENAPAD-SP                               #
+################################################################################
+
+        O CENAPAD-SP eh um orgao governamental que prove alto poder de processa-
+mento para projetos de pesquisa. Esta localizado na UNICAMP junto ao Centro de
+Computacao. Esta selecionando para inicio imediato um (1) estagiario em suporte
+aa administracao de rede UNIX (AIX).
+
+Beneficios:
+
+        - Bolsa Auxilio na faixa de R$ 600,00
+        - Cursos nas areas de suporte e administracao de sistemas UNIX, WWW
+          (HTML, Java), programacao script (C-Shell, PERL) e areas correlatas
+        - Excente oportunidade para aprendizado e aprimoramento tecnico
+
+Requisitos:
+
+        - Disponibilidade de 40 horas semanais
+        - Cursando preferencialmente Ciencia de Computacao
+        - Estar no 2o. ano em diante (no curso)
+        - Vontade de Aprender
+
+        Os interessados devem encaminhar curriculos, marcar entrevista e obter
+maiores informacoes com:
+
+Ana Drummond
+Supervisora Tecnica - CENAPAD-SP
+tel. (019) 788-2196/2197 - fax 788-2199
+E-Mail: anadru@cenapad.unicamp.br
+http://www.cenapad.unicamp.br
+
+From sandrab@tigre.dc.ufscar.br Thu Nov 27 17:20 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA02440; Thu, 27 Nov 1997 17:20:17 -0200
+Received: from power.ufscar.br (power.ufscar.br [200.9.84.65]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id QAA06514 for <estag98-l@tigre.dc.ufscar.br>; Thu, 27 Nov 1997 16:19:30 -0200
+Received: from  by power.ufscar.br via SMTP (951211.SGI.8.6.12.PATCH1502/911001.SGI)
+	for <estag98-l@tigre.dc.ufscar.br> id RAA22607; Thu, 27 Nov 1997 17:13:04 -0300
+Message-Id: <347E1A45.48D2@dglnet.com.br>
+Date: Thu, 27 Nov 1997 17:11:33 -0800
+From: Patr\mcia Caula Westin <westin@dglnet.com.br>
+Organization: DC-UFSCar
+X-Mailer: Mozilla 3.0Gold (Win16; I)
+Mime-Version: 1.0
+To: estag98-l@tigre.dc.ufscar.br
+Subject: IBM
+Content-Transfer-Encoding: quoted-printable
+X-Mime-Autoconverted: from 8bit to quoted-printable by tigre.dc.ufscar.br id QAA06515
+X-Lines: 9
+Content-Transfer-Encoding: quoted-printable
+Status: RO
+X-Status: 
+Content-Type: text/plain; charset="iso-8859-1"; conversions="quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable"
+Content-Length: 236
+
+Urgente!!!
+
+Pedimos que quem foi chamado para ir na IBM dia 03/12 e gostaria que
+mudasse o data( por causa das provas )...informasse se aceita que a nova
+data seja dia 8 ou 9/12...
+
+	Falar com a Sandra.
+
+( Obs: at=E9 sexta...amanh=E3 )
+
+From sandrab@tigre.dc.ufscar.br Thu Nov 27 18:19 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA03214; Thu, 27 Nov 1997 18:19:11 -0200
+Received: from luz.lexxa.com.br (luz.lexxa.com.br [200.245.13.11]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with ESMTP id RAA06670 for <estag98-l@tigre.dc.ufscar.br>; Thu, 27 Nov 1997 17:19:21 -0200
+Received: from [200.18.97.53] by luz.lexxa.com.br
+          (Netscape Mail Server v2.02) with SMTP id AAA189
+          for <estag98-l@tigre.dc.ufscar.br>;
+          Thu, 27 Nov 1997 18:17:10 -0300
+Message-Id: <347E2831.76F6@lexxa.com.br>
+Date: Thu, 27 Nov 1997 18:10:57 -0800
+From: "Fernanda Kussama Pellegrini" <pellegrini@lexxa.com.br>
+Organization: DC-UFSCar
+X-Mailer: Mozilla 3.0Gold (Win16; I)
+Mime-Version: 1.0
+To: estag98-l@tigre.dc.ufscar.br
+Subject: IBM
+Content-Transfer-Encoding: quoted-printable
+X-Mime-Autoconverted: from 8bit to quoted-printable by tigre.dc.ufscar.br id RAA06671
+X-Lines: 9
+Content-Transfer-Encoding: quoted-printable
+Status: RO
+X-Status: 
+Content-Type: text/plain; charset="iso-8859-1"; conversions="quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable"
+Content-Length: 191
+
+Ol=E1, pessoal,
+
+	Quem foi chamado para IBM para o dia 2, sugiro que mudemos a data
+para o dia 5 de dezembro, sexta-feira a tarde.
+	Confirmem com a Sandra ou comigo.
+
+
+
+					Fernanda (BCC95)
+
+From sandrab@tigre.dc.ufscar.br Thu Nov 27 21:35 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA04452; Thu, 27 Nov 1997 21:35:24 -0200
+Received: from leao (leao.dc.ufscar.br [200.18.99.4]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id UAA07482 for <estag98-l@tigre>; Thu, 27 Nov 1997 20:35:41 -0200
+Received: from leopardo.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA04422; Thu, 27 Nov 1997 21:34:31 -0200
+Received: from localhost by leopardo.ufscar.br (SMI-8.6/SMI-SVR4)
+	id VAA20430; Thu, 27 Nov 1997 21:36:07 -0200
+Date: Thu, 27 Nov 1997 21:36:07 -0200 (EDT)
+From: Renato Luis Rissardi - BamBam <bambam@dc.ufscar.br>
+X-Sender: bambam@leopardo
+To: estag98-l@tigre.dc.ufscar.br
+Subject: Oportunidade de estagio na Shell Brasil S.A. (fwd)
+Message-Id: <Pine.GSO.3.94.971127213517.20413B-100000@leopardo>
+Mime-Version: 1.0
+X-Lines: 98
+Status: RO
+X-Status: 
+Content-Type: TEXT/PLAIN; charset="US-ASCII"
+Content-Length: 2838
+
+Oi Galera!
+
+
+Olha uma oportunidade boa para quem esta' a fim de ir para Campinas.
+
+[]s
+
+BamBam.
+
+
+---------- Forwarded message ----------
+Date: Thu, 27 Nov 97 14:11:33 -0200
+From: Elizabete_Maria/cps_gs@promon.com.br
+To: bambam@dc.ufscar.br
+Subject: RE: Oportunidade de estagio na Shell Brasil S.A.
+
+
+----------
+From: Iwashima, Tatiana / cps, gs
+To: Elizabete, Maria / cps, gs
+Subject: FW: Oportunidade de estagio na Shell Brasil S.A.
+Date: Thursday, 27 de November de 1997 13:06
+
+
+----------
+From: jfmaia / Internet-SHAR ( jfmaia@dcc.unicamp.br )
+To: grad / Internet-SHAR ( grad@dcc.unicamp.br ); atcampos /
+Internet-SHAR ( atcampos@nutecnet.com.br )
+Subject: Oportunidade de estagio na Shell Brasil S.A.
+Date: Wednesday, 26 de November de 1997 16:54
+
+
+	
+  A Shell Brasil S.A. esta' oferecendo uma vaga no setor de
+planejamento estrategico, para alunos de 4o ou 5o ano em 98 de
+Ciencia ou Engenharia de Computacao. Uma oportunidade para
+quem quer conhecer o cotidiano de uma multinacional.
+
+
+  Requisitos :
+  -----------
+     o  Proficiencia em Access e Excel
+     o  Conhecimento de Power Point
+     o  Interesse pela area financeira
+     o  Boa capacidade de comunicacao
+     o  Disponibilidade de 20 horas semanais
+
+*************************************************************
+
+  Local de Trabalho :
+  -----------------
+     o  Escritorio de Vendas - localizado no Cambui, Campinas
+
+*************************************************************
+  Remuneracao :
+  ------------
+     o  Bolsa de aproximadamente R$ 500,00 - varia com o ano
+do curso.
+     o  Possibilidade de realizar periodo integral nas ferias
+(e consequentemente salario dobrado).
+
+*************************************************************
+
+   Aos interessados :
+   ------------------
+     o   Favor responder este e-mail
+     o   Preparar curriculo
+
+
+
+
+
+
+
+
+
+-------
+Received: from spo15 (firewall) by promon.com.br with SMTP
+	(1.40.112.12/16.2) id AA031611349; Wed, 26 Nov 1997 17:09:09 -0200
+Received: from dcc.unicamp.br ([143.106.1.11]) by spo15
+          via smtpd (for [87.10.87.1]) with SMTP; 26 Nov 1997 20:13:18 UT
+Received: from amazonas.dcc.unicamp.br (amazonas3 [143.106.7.11])
+	by grande.dcc.unicamp.br (8.8.5/8.8.5) with ESMTP id QAA04749;
+	Wed, 26 Nov 1997 16:57:31 -0200 (EDT)
+Received: from xingu.dcc.unicamp.br (xingu3 [143.106.7.7])
+	by amazonas.dcc.unicamp.br (8.8.5/8.8.5) with ESMTP id QAA08563;
+	Wed, 26 Nov 1997 16:56:59 -0200 (EDT)
+Received: (from jfmaia@localhost)
+	by xingu.dcc.unicamp.br (8.8.5/8.8.5) id QAA15622;
+	Wed, 26 Nov 1997 16:54:25 -0200 (EDT)
+Date: Wed, 26 Nov 1997 16:54:25 -0200 (EDT)
+From: Joao Francisco Maia <jfmaia@dcc.unicamp.br>
+Message-Id: <199711261854.QAA15622@xingu.dcc.unicamp.br>
+To: grad@dcc.unicamp.br, atcampos@nutecnet.com.br
+Subject: Oportunidade de estagio na Shell Brasil S.A.
+X-Sun-Charset: US-ASCII
+
+
+
+From sandrab@tigre.dc.ufscar.br Fri Nov 28 10:55 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA09809; Fri, 28 Nov 1997 10:55:18 -0200
+Received: from leao (leao.dc.ufscar.br [200.18.99.4]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id JAA06212 for <estag98-l@tigre>; Fri, 28 Nov 1997 09:55:05 -0200
+Received: by leao (5.x/SMI-SVR4)
+	id AA09793; Fri, 28 Nov 1997 10:53:59 -0200
+Date: Fri, 28 Nov 1997 10:53:59 -0200
+From: sandrab@leao.dc.ufscar.br (Sandra Abib)
+Message-Id: <9711281253.AA09793@leao>
+To: estag98-l@tigre.dc.ufscar.br
+Subject: IBM
+X-Sun-Charset: US-ASCII
+Content-Type: text
+Content-Length: 291
+X-Lines: 12
+Status: RO
+X-Status: 
+
+	Pessoal envolvido com a dinamica de grupo na IBM.
+
+	Conversei com eles e pedi para alterar a data marcada.
+Estou aguardando confirmacao delas, e de voces tambem. 
+
+	Espero que voces definam uma data para eu pedir a eles
+a prioridade do dia.
+
+	Aguardo a confirmacao urgente.
+
+	bye,
+		Sandra
+
+From sandrab@tigre.dc.ufscar.br Fri Nov 28 14:17 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA13270; Fri, 28 Nov 1997 14:17:38 -0200
+Received: from leao (leao.dc.ufscar.br [200.18.99.4]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id NAA06697 for <estag98-l@tigre>; Fri, 28 Nov 1997 13:17:39 -0200
+Received: from localhost by leao (5.x/SMI-SVR4)
+	id AA13205; Fri, 28 Nov 1997 14:16:33 -0200
+Date: Fri, 28 Nov 1997 14:16:33 -0200 (EDT)
+From: Renato Luis Rissardi - BamBam <bambam@dc.ufscar.br>
+X-Sender: bambam@leao
+To: "Leonardo A. de Andrade" <g130265@polvo.ufscar.br>
+Cc: estag98-l@tigre.dc.ufscar.br
+Subject: Re: Sobre a Shell
+In-Reply-To: <Pine.LNX.3.93.971128095259.17712A-100000@polvo.ufscar.br>
+Message-Id: <Pine.GSO.3.94.971128141127.12967B-100000@leao>
+Mime-Version: 1.0
+X-Lines: 30
+Status: RO
+X-Status: 
+Content-Type: TEXT/PLAIN; charset="US-ASCII"
+Content-Length: 572
+
+Oi Leo!
+
+Olha, sinceramente, nao tenho certeza. Recebi aquela mensagem por
+terceiros (ou N-eiros?) e nao sei a origem certa. Contudo, mandei meu
+curriculo para o endereco da Unicamp:
+
+mailto:jfmaia@dcc.unicamp.br
+
+Contudo, nao sei se e' a pessoa correta. Tente mandar para la' tambem.
+Caso alguem consiga uma resposta ou saiba de alguma outra informacao,
+passa aqui para a lista.
+
+Boa sorte!
+
+[]s
+
+BamBam.
+
+On Fri, 28 Nov 1997, Leonardo A. de Andrade wrote:
+
+> Caro Bambam:
+> 
+> 	Qual eh o endereco para o qual tenho de responder o e-mail da
+> Shell?
+> 
+> T+
+> Leo
+> 
+> 
+
+
+From sandrab@tigre.dc.ufscar.br Fri Nov 28 14:44 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA13618; Fri, 28 Nov 1997 14:44:04 -0200
+Received: from leao (leao.dc.ufscar.br [200.18.99.4]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id NAA06794 for <estag98-l@tigre>; Fri, 28 Nov 1997 13:43:45 -0200
+Received: from localhost by leao (5.x/SMI-SVR4)
+	id AA13590; Fri, 28 Nov 1997 14:42:41 -0200
+Date: Fri, 28 Nov 1997 14:42:41 -0200 (EDT)
+From: Renato Luis Rissardi - BamBam <bambam@dc.ufscar.br>
+X-Sender: bambam@leao
+To: estag98-l@tigre.dc.ufscar.br
+Subject: Shell
+Message-Id: <Pine.GSO.3.94.971128144002.12967D-100000@leao>
+Mime-Version: 1.0
+X-Lines: 16
+Status: RO
+X-Status: 
+Content-Type: TEXT/PLAIN; charset="US-ASCII"
+Content-Length: 380
+
+Oi turma!
+
+Sobre a Shell, novamente, procurem na pagina dela
+
+http://www.shell.com.br
+
+o link com a figura de algumas pessoas ("Saiba como a Shell capacita seus
+profissionais..."). Seguindo mais alguns links tem um formulario para
+envio de curriculo on-line. Ale'm disso, tem algumas informacoes sobre o
+programa de estagio e beneficios (inclusive treinamento).
+
+Inte+,
+
+BamBam
+
+
+
+From sandrab@tigre.dc.ufscar.br Fri Nov 28 14:53 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA13716; Fri, 28 Nov 1997 14:53:03 -0200
+Received: from leao (leao.dc.ufscar.br [200.18.99.4]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id NAA06844 for <estag98-l@tigre>; Fri, 28 Nov 1997 13:53:21 -0200
+Received: from localhost by leao (5.x/SMI-SVR4)
+	id AA13704; Fri, 28 Nov 1997 14:52:17 -0200
+Date: Fri, 28 Nov 1997 14:52:17 -0200 (EDT)
+From: Renato Luis Rissardi - BamBam <bambam@dc.ufscar.br>
+X-Sender: bambam@leao
+To: estag98-l@tigre.dc.ufscar.br
+Subject: Estagio BankBoston (complemento)
+Message-Id: <Pine.GSO.3.94.971128144932.13667D-100000@leao>
+Mime-Version: 1.0
+X-Lines: 80
+Status: RO
+X-Status: 
+Content-Type: TEXT/PLAIN; charset="US-ASCII"
+Content-Length: 2107
+
+Oi de novo!
+
+Estive conversando com o Fernando Pajares e consegui o e-mail dele para
+enviar curriculos:
+
+mailto:roncal@correionet.com.br
+
+Tambem pode-se enviar o curriculo pelo fax:
+
+(011) 249-6846
+Aos cuidados de Fernando Pajares
+
+[]s
+
+BamBam.
+
+
+---------- Forwarded message ----------
+Date: Tue, 25 Nov 97 18:45:42 -0200
+From: Elizabete_Maria/cps_gs@promon.com.br
+To: bambam@dc.ufscar.br
+Subject: RE: Estagio BankBoston
+
+
+----------
+From: Iwashima, Tatiana / cps, gs
+To: Elizabete, Maria / cps, gs
+Subject: FW: Estagio BankBoston
+Date: Tuesday, 25 de November de 1997 8:18
+
+
+----------
+From: mtsutomu / Internet-SHAR ( mtsutomu@dcc.unicamp.br )
+To: grad / Internet-SHAR ( grad@dcc.unicamp.br )
+Subject: Estagio BankBoston
+Date: Monday, 24 de November de 1997 22:42
+
+
+
+	Estagio BankBoston - Sao Paulo
+
+
+	Alunos com interesse/conhecimento nas seguintes areas:
+
+	- Sistemas distribuidos;
+	- Metodologia de sist.: Analise estruturada;
+	- Orientacao a Objetos;
+	- C e UNIX;
+	- Administracao de Redes
+
+	O Banco oferece bolsa-auxilio e demais beneficios. Procura-se
+preferencialmente alunos com previsao de formatura em dezembro de 98.
+
+	Os interessados devem entrar em contato com:
+	Fernando Pajares:
+	(011) 249 5927 - das 9:00 as 18:00hs
+	(019) 233 4784 - Apos 20:30hs
+
+
+	[]'S
+	Marcos - CC94
+
+-------
+Received: from stmp (firewall) by promon.com.br with SMTP
+	(1.40.112.12/16.2) id AA043889857; Mon, 24 Nov 1997 23:04:17 -0200
+Received: from dcc.unicamp.br ([143.106.1.11]) by stmp
+          via smtpd (for [87.10.87.1]) with SMTP; 25 Nov 1997 02:03:50 UT
+Received: from amazonas.dcc.unicamp.br (amazonas3 [143.106.7.11])
+	by grande.dcc.unicamp.br (8.8.5/8.8.5) with ESMTP id WAA25844;
+	Mon, 24 Nov 1997 22:49:37 -0200 (EDT)
+Received: from ttl (ttl [143.106.23.13])
+	by amazonas.dcc.unicamp.br (8.8.5/8.8.5) with SMTP id WAA00846
+	for <grad@dcc.unicamp.br>; Mon, 24 Nov 1997 22:42:57 -0200 (EDT)
+Date: Mon, 24 Nov 1997 22:42:57 -0200 (EDT)
+From: Marcos Tsutomu Nakamura <mtsutomu@dcc.unicamp.br>
+Message-Id: <199711250042.WAA00846@amazonas.dcc.unicamp.br>
+To: grad@dcc.unicamp.br
+Subject: Estagio BankBoston
+
+
+
+From sandrab@tigre.dc.ufscar.br Fri Nov 28 15:49 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA14283; Fri, 28 Nov 1997 15:49:17 -0200
+Received: from leao (leao.dc.ufscar.br [200.18.99.4]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id OAA07095 for <estag98-l@tigre>; Fri, 28 Nov 1997 14:46:02 -0200
+Received: from localhost by leao (5.x/SMI-SVR4)
+	id AA14245; Fri, 28 Nov 1997 15:44:57 -0200
+Date: Fri, 28 Nov 1997 15:44:57 -0200 (EDT)
+From: Renato Luis Rissardi - BamBam <bambam@dc.ufscar.br>
+X-Sender: bambam@leao
+To: estag98-l@tigre.dc.ufscar.br
+Subject: Estagio na Shell Brasil (fwd)
+Message-Id: <Pine.GSO.3.94.971128154400.14221A-100000@leao>
+Mime-Version: 1.0
+X-Lines: 63
+Status: RO
+X-Status: 
+Content-Type: TEXT/PLAIN; charset="US-ASCII"
+Content-Length: 2167
+
+Oi mais uma vez de novo....
+
+Esta foi a resposta que recebi da Shell:
+
+---------- Forwarded message ----------
+Date: Fri, 28 Nov 1997 15:05:46 -0200 (EDT)
+From: Joao Francisco Maia <jfmaia@dcc.unicamp.br>
+To: marcovaz@dcc.unicamp.br, quaresma@nibgw.unicamp.br,
+    cobianch@dcc.unicamp.br, gui@webcit.com.br, karina@cps.softex.br,
+    rnbueno@dcc.unicamp.br, mariober@dcc.unicamp.br, mcconti@dcc.unicamp.br,
+    dccintra@dcc.unicamp.br, selma@dcc.unicamp.br, woliveira@dcc.unicamp.br,
+    bambam@dc.ufscar.br, mmartins@dcc.unicamp.br, lgdias@leao.dc.ufscar.br,
+    atcampos@nutecnet.com.br
+Subject: Estagio na Shell Brasil
+
+
+  Para aqueles que responderam o e-mail, e 
+consequentemente estao recebendo esta resposta,
+ai vai o dia e o endereco da entrevista : 
+
+
+ Quinta-feira, 04/11 
+ Inicio : 08:00h
+ Termino : nao e' exato, mas reservem ate' 12:30h
+ 
+ Rua Gustavo Armbrust, 125 - Cambui - Campinas
+  
+ Dica : a rua e' uma travessa da Avenida Norte-Sul, 
+praticamente em frente a Pizza Hut. (so' que
+do outro lado da avenida, sentido Taquaral - Guarani).
+
+
+  ** Trazer curriculo impresso para o dia da entrevista.
+  ** Curriculos enviados por e-mail nao serao considerados.
+ 
+
+ INFORMACOES IMPORTANTES : 
+ -----------------------
+    **  O estagio se iniciara' em Dezembro, provavelmente no
+dia 8 de dezembro. (Ja' com a possibilidade de periodo integral). 
+Ou seja, para quem quer viajar nas ferias e ficar na sua cidade
+natal, longe de Campinas, este nao e' o estagio adequado.
+
+    **  O estagio exige a presenca do estagiario todos os dias
+da semana, preferencialmente 4 horas por dia, nao sendo possivel 
+cumprir 20 horas em 3 dias, por exemplo. 
+
+ PROCESSO SELETIVO :
+ -------------------
+
+  O processo seletivo e' bem simples, constando de uma entrevista
+com o Chefe do Planejamento, Alexandre Triffoni e de uma
+prova dos aplicativos Access e Excel. Nao se assustem com a prova,
+pois ela e' simples para quem realmente tem conhecimentos. Ocorre
+que a necessidades deste aplicativos e' imprescindivel para as
+tarefas que serao desenvolvidas.
+
+ 
+  Quaisquer duvidas, podem enviar e-mail.
+  
+ Se preciso, telefone da Shell e' 255-3288 Ramal 217,
+com Alexandre.
+
+
+From wsb@dc.ufscar.br Mon Dec  1 14:49 EDT 1997
+Return-Path: <wsb@dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA00347; Mon, 1 Dec 1997 14:49:14 -0200
+Received: from power.ufscar.br (ppp43.ufscar.br [200.9.84.43]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with ESMTP id NAA07505 for <malara@dc.ufscar.br>; Mon, 1 Dec 1997 13:50:00 -0200
+Message-Id: <3482EA25.39F86718@dc.ufscar.br>
+Date: Mon, 01 Dec 1997 14:47:34 -0200
+From: Wagner da Silva Bila <wsb@dc.ufscar.br>
+X-Mailer: Mozilla 4.0 [en] (Win95; I)
+Mime-Version: 1.0
+To: malara@dc.ufscar.br
+Subject: Projeto da Junia !
+X-Priority: 3 (Normal)
+Content-Transfer-Encoding: 7bit
+X-Lines: 8
+Status: RO
+X-Status: 
+Content-Type: text/plain; charset="us-ascii"; conversions="7bit, 7bit, 7bit, 7bit, 7bit, 7bit, 7bit, 7bit, 7bit, 7bit, 7bit, 7bit"
+Content-Length: 161
+
+    Ola Rodrigo,
+
+    Nao sei se vc ja esta sabendo mas esta sexta-feira e o prazo que a
+Junia deu pra entregar o projeto, o que faremos ?
+
+    []'s
+    Wagner
+
+
+From sandrab@tigre.dc.ufscar.br Mon Dec  1 17:02 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA03000; Mon, 1 Dec 1997 17:02:13 -0200
+Received: from leao (leao.dc.ufscar.br [200.18.99.4]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id PAA08724 for <estag98-l@tigre>; Mon, 1 Dec 1997 15:59:49 -0200
+Received: by leao (5.x/SMI-SVR4)
+	id AA02924; Mon, 1 Dec 1997 16:59:01 -0200
+Date: Mon, 1 Dec 1997 16:59:01 -0200
+From: sandrab@leao.dc.ufscar.br (Sandra Abib)
+Message-Id: <9712011859.AA02924@leao>
+To: estag98-l@tigre.dc.ufscar.br
+Subject: IBM - Urgente
+X-Sun-Charset: US-ASCII
+Content-Type: text
+Content-Length: 834
+X-Lines: 32
+Status: RO
+X-Status: 
+
+
+
+	Aos que estao marcados para ir a IBM nesta sexta e quinta (4 e 5)
+leiam a mensagem que recebi de la':
+
+	-----------------------------------------------------------
+
+
+  Sandra,
+	  a Debora me ligou, e disse que conseguiu arrumar uma sala para 
+segunda (8/12) a tarde. Ela falou para mandar a lista das pessoas que 
+virao quinta e sexta de manha e segunda a tarde, para ver se irao 
+continuar essas tres turmas. Para quem vier segunda a tarde, ficou 
+marcado para as 13:30 horas.
+	Se possivel, mandar o mais rapido.
+
+	Qualquer duvida me escreva.
+
+	Ate mais,
+		  Zelao
+PS: 	Ai todos fariam juntos em so um horario ?
+
+
+	**********************************************************
+	**********************************************************
+
+
+	Deem um retorno para mim, urgente, na secretaria atraves da ANA.
+ATE' AMANHA AO MEIO DIA.
+
+
+
+
+From wsb@dc.ufscar.br Mon Dec  1 17:33 EDT 1997
+Return-Path: <wsb@dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA03600; Mon, 1 Dec 1997 17:32:58 -0200
+Received: from power.ufscar.br (ppp44.ufscar.br [200.9.84.44]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with ESMTP id QAA09252 for <malara@dc.ufscar.br>; Mon, 1 Dec 1997 16:33:45 -0200
+Message-Id: <34831087.E9F33D97@dc.ufscar.br>
+Date: Mon, 01 Dec 1997 17:31:20 -0200
+From: Wagner da Silva Bila <wsb@dc.ufscar.br>
+X-Mailer: Mozilla 4.0 [en] (Win95; I)
+Mime-Version: 1.0
+To: malara@dc.ufscar.br
+Subject: Projeto da Junia !
+X-Priority: 3 (Normal)
+Content-Transfer-Encoding: 7bit
+X-Lines: 12
+Status: RO
+X-Status: 
+Content-Type: text/plain; charset="us-ascii"; conversions="7bit, 7bit, 7bit, 7bit, 7bit, 7bit, 7bit, 7bit, 7bit, 7bit, 7bit, 7bit"
+Content-Length: 281
+
+    Fala Rodrigo,
+
+    Caso queira conversar a respeito do que a gente possa fazer ate
+sexta-feira me ligue :
+
+    271-0994          ( Caso nao consiga, ligue para 261-3944, pois este
+sera o novo numero
+                                dentro de alguns dias )
+
+    []'s
+    Wagner
+
+
+From sandrab@tigre.dc.ufscar.br Tue Dec  2 11:27 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA10340; Tue, 2 Dec 1997 11:26:58 -0200
+Received: from luz.lexxa.com.br (luz.lexxa.com.br [200.245.13.11]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with ESMTP id KAA08748 for <estag98-l@tigre.dc.ufscar.br>; Tue, 2 Dec 1997 10:26:45 -0200
+Received: from [200.18.97.43] by luz.lexxa.com.br
+          (Netscape Mail Server v2.02) with SMTP id AAA184
+          for <estag98-l@tigre.dc.ufscar.br>;
+          Tue, 2 Dec 1997 11:23:35 -0300
+Message-Id: <34845EA6.31D6@lexxa.com.br>
+Date: Tue, 02 Dec 1997 11:16:54 -0800
+From: "Fernanda Kussama Pellegrini" <pellegrini@lexxa.com.br>
+Organization: DC-UFSCar
+X-Mailer: Mozilla 3.0Gold (Win16; I)
+Mime-Version: 1.0
+To: estag98-l@tigre.dc.ufscar.br
+Subject: Caixinha
+Content-Transfer-Encoding: quoted-printable
+X-Mime-Autoconverted: from 8bit to quoted-printable by tigre.dc.ufscar.br id KAA08749
+X-Lines: 11
+Content-Transfer-Encoding: quoted-printable
+Status: RO
+X-Status: 
+Content-Type: text/plain; charset="iso-8859-1"; conversions="quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable"
+Content-Length: 224
+
+Para o pessoal do Bacharelado,
+
+
+	O dinheiro da caixinha acabou. Como estamos no final do ano n=E3o vou
+recolher mais dinheiro. Agora, quem ainda quiser mandar os curriculos
+mande cada um por sua conta.
+
+
+
+
+							Fernanda.
+
+From sandrab@tigre.dc.ufscar.br Tue Dec  2 15:52 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA13925; Tue, 2 Dec 1997 15:52:21 -0200
+Received: from power.ufscar.br (power.ufscar.br [200.9.84.65]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id OAA10098 for <estag98-l@tigre.dc.ufscar.br>; Tue, 2 Dec 1997 14:49:09 -0200
+Received: from  by power.ufscar.br via SMTP (951211.SGI.8.6.12.PATCH1502/911001.SGI)
+	for <estag98-l@tigre.dc.ufscar.br> id PAA03164; Tue, 2 Dec 1997 15:43:38 -0300
+Message-Id: <34849CA3.4D0A@hotmail.com>
+Date: Tue, 02 Dec 1997 15:41:23 -0800
+From: Marlon Deivis Kotai Costa <kotai@hotmail.com>
+Organization: DC-UFSCar
+X-Mailer: Mozilla 3.0Gold (Win16; I)
+Mime-Version: 1.0
+To: estag98-l@tigre.dc.ufscar.br
+Subject: Para Sandra
+Content-Transfer-Encoding: quoted-printable
+X-Mime-Autoconverted: from 8bit to quoted-printable by tigre.dc.ufscar.br id OAA10099
+X-Lines: 6
+Content-Transfer-Encoding: quoted-printable
+Status: RO
+X-Status: 
+Content-Type: text/plain; charset="iso-8859-1"; conversions="quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable"
+Content-Length: 142
+
+Sandra,
+Quanto a din=E2mica de grupo da ITGS.
+Quero confirmar minha presen=E7a para dia 10/12.
+Confirmo com vc ou preciso ligar l=E1?
+
+Marlon
+
+From sandrab@tigre.dc.ufscar.br Tue Dec  2 16:41 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA14392; Tue, 2 Dec 1997 16:41:36 -0200
+Received: from power.ufscar.br (power.ufscar.br [200.9.84.65]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id PAA10608 for <estag98-l@tigre.dc.ufscar.br>; Tue, 2 Dec 1997 15:35:39 -0200
+Received: from  by power.ufscar.br via SMTP (951211.SGI.8.6.12.PATCH1502/911001.SGI)
+	for <estag98-l@tigre.dc.ufscar.br> id QAA05200; Tue, 2 Dec 1997 16:30:08 -0300
+Message-Id: <3484A75F.208B@hotmail.com>
+Date: Tue, 02 Dec 1997 16:27:14 -0800
+From: Marlon Deivis Kotai Costa <kotai@hotmail.com>
+Organization: DC-UFSCar
+X-Mailer: Mozilla 3.0Gold (Win16; I)
+Mime-Version: 1.0
+To: estag98-l@tigre.dc.ufscar.br
+Subject: Selecionados pela ITGS
+Content-Transfer-Encoding: quoted-printable
+X-Mime-Autoconverted: from 8bit to quoted-printable by tigre.dc.ufscar.br id PAA10609
+X-Lines: 7
+Content-Transfer-Encoding: quoted-printable
+Status: RO
+X-Status: 
+Content-Type: text/plain; charset="iso-8859-1"; conversions="quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable"
+Content-Length: 216
+
+Pessoal,
+Temos que marcar um ou dois dias para ir at=E9 a ITGS para a dinamica de
+grupo.
+Gostaria de sugerir dia 10/12 ou dia 15/12.
+Por favor respondam-me escolhendo um desses dias ou outro qualquer.
+Marlon
+URGENTE
+
+From sandrab@tigre.dc.ufscar.br Tue Dec  2 17:15 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA14691; Tue, 2 Dec 1997 17:15:46 -0200
+Received: from linkway.com.br (linkway.linkway.com.br [200.246.17.26]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id QAA11181 for <estag98-l@tigre.dc.ufscar.br>; Tue, 2 Dec 1997 16:14:47 -0200
+Received: from hotmail.com by linkway.com.br (SMI-8.6/SMI-SVR4)
+	id RAA27559; Tue, 2 Dec 1997 17:13:04 -0200
+Message-Id: <34845D80.C43E6898@hotmail.com>
+Date: Tue, 02 Dec 1997 17:12:00 -0200
+From: Cristiano Lamberti <c_lamberti@hotmail.com>
+X-Mailer: Mozilla 4.03 [en] (Win95; I)
+Mime-Version: 1.0
+To: estag98-l@tigre.dc.ufscar.br
+Subject: Para a Engenharia
+Content-Transfer-Encoding: 7bit
+X-Lines: 14
+Status: RO
+X-Status: 
+Content-Type: text/plain; charset="us-ascii"; conversions="7bit, 7bit, 7bit, 7bit, 7bit, 7bit, 7bit, 7bit, 7bit, 7bit, 7bit, 7bit"
+Content-Length: 394
+
+Este mail se destina aqueles que participam da caixinha.
+
+Gostaria de comunicar, aos que ainda nao sabem, que a caixinha da
+Engenharia de Computacao esta arrecadando mais R$2,00 de cada
+participante para cobrir dividas com aqueles que tiveram gastos (correio
+e telefones).
+
+O dinheiro deve ser entregue a mim o mais rapido possivel, por favor.
+
+[]'s
+
+Cristiano Lamberti
+c_lamberti@hotmail.com
+
+
+From wsb@leao Wed Dec  3 17:17 EDT 1997
+Return-Path: <wsb@leao>
+Received: from leopardo.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA26015; Wed, 3 Dec 1997 17:16:58 -0200
+Received: by leopardo.ufscar.br (SMI-8.6/SMI-SVR4)
+	id RAA13982; Wed, 3 Dec 1997 17:18:28 -0200
+Date: Wed, 3 Dec 1997 17:18:28 -0200
+From: wsb@leao (Wagner Bila -  Aluno Graduacao - Regina)
+Message-Id: <199712031918.RAA13982@leopardo.ufscar.br>
+To: malara@dc.ufscar.br
+Subject: Me liga !
+Content-Type: text
+Content-Length: 74
+X-Lines: 5
+Status: RO
+X-Status: 
+
+
+Me liga pra gente conversar sobre o projeto. Tel.: 261-3994
+
+[]'s
+Wagner
+
+From sandrab@tigre.dc.ufscar.br Thu Dec  4 10:12 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA02731; Thu, 4 Dec 1997 10:12:21 -0200
+Received: from leao (leao.dc.ufscar.br [200.18.99.4]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id JAA10410 for <estag98-l@tigre>; Thu, 4 Dec 1997 09:11:00 -0200
+Received: by leao (5.x/SMI-SVR4)
+	id AA02704; Thu, 4 Dec 1997 10:10:28 -0200
+Date: Thu, 4 Dec 1997 10:10:28 -0200
+From: sandrab@leao.dc.ufscar.br (Sandra Abib)
+Message-Id: <9712041210.AA02704@leao>
+To: estag98-l@tigre.dc.ufscar.br
+Subject: Reforco dos Avisos no quadro (externo).
+Content-Type: X-sun-attachment
+X-Lines: 383
+Status: RO
+X-Status: 
+Content-Length: 22347      
+
+----------
+X-Sun-Data-Type: text
+X-Sun-Data-Description: text
+X-Sun-Data-Name: text
+X-Sun-Charset: us-ascii
+X-Sun-Content-Lines: 24
+X-Sun-Content-Length: 817
+
+	Bom dia Pessoal.
+
+	Peco que nao se esquecam de liberar a vaga de estagio
+das empresas que nao interessam mais a voces, no caso de terem
+mais do que uma selecao.
+
+	O Plano de trabalho devera' ser entregue na coordenacao 
+de estagio ate' o dia da matricula. Voces devem solicitar aos
+seus responsaveis nas empresas a elaboracao dos mesmos.
+
+	Outro problema serio e' o termo de compromisso de estagio.
+EU SO ASSINO caso o convenio ja' tenha sido encaminhado ou entao
+a empresa ja' tenha convenio com a UFSCar. Entao providenciem a
+documentacao para que possamos disparar o processo aqui na escola.
+
+	Espero contar com a colaboracao de voces.
+
+	Bye,
+	     Sandra
+
+PS. Segue atachado o arquivo que contem o documento que voces devem
+encaminhar a empresa para que ela enviema os dados necessarios a
+montagem do processo.
+
+----------
+X-Sun-Data-Type: default
+X-Sun-Data-Description: default
+X-Sun-Data-Name: acordo.doc
+X-Sun-Encoding-Info: uuencode
+X-Sun-Content-Lines: 345
+X-Sun-Content-Length: 21191
+
+begin 600 acordo.doc
+MT,\1X*&Q&N$                                                 
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+M                                                            
+/                    
+ 
+end
+
+From sandrab@tigre.dc.ufscar.br Fri Dec  5 09:27 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA13213; Fri, 5 Dec 1997 09:27:55 -0200
+Received: from leao (leao.dc.ufscar.br [200.18.99.4]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id IAA12031 for <estag98-l@tigre>; Fri, 5 Dec 1997 08:27:36 -0200
+Received: from leopardo.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA13202; Fri, 5 Dec 1997 09:27:11 -0200
+Received: from localhost by leopardo.ufscar.br (SMI-8.6/SMI-SVR4)
+	id JAA03415; Fri, 5 Dec 1997 09:28:39 -0200
+Date: Fri, 5 Dec 1997 09:28:38 -0200 (EDT)
+From: Renato Luis Rissardi - BamBam <bambam@dc.ufscar.br>
+X-Sender: bambam@leopardo
+To: estag98-l@tigre.dc.ufscar.br
+Subject: Estagio no BankBoston. (fwd)
+Message-Id: <Pine.GSO.3.94.971205092739.3205D-100000@leopardo>
+Mime-Version: 1.0
+X-Lines: 72
+Status: RO
+X-Status: 
+Content-Type: TEXT/PLAIN; charset="US-ASCII"
+Content-Length: 2671
+
+
+Oi turma!
+
+A quem possa interessar, aqui vao as informacoes que recebi do BankBoston
+para estagio na a'rea tecnica:
+
+
+
+---------- Forwarded message ----------
+Date: Thu, 4 Dec 1997 14:57:45 -0500
+From: hyishida@bkb.com
+To: "        -         (052)bambam(a)dc.ufscar.br" <bambam@dc.ufscar.br>
+Cc: "BOSCCM01-FPAJAR01 (052)" <fpajares@bkb.com>
+Subject: Estagio no BankBoston.
+
+---------------------------- Forwarded with Changes ---------------------------
+From: HELIO Y. ISHIDA at ~BRANOV1
+Date: 12/4/97 4:22PM
+To: lgdias@leao.dc.ufscar.br at INTERNET
+Receipt Requested
+cc: FERNANDO PAJARES
+Subject: Estagio no BankBoston.
+-------------------------------------------------------------------------------
+     Renato.
+
+     Meu nome eh Helio Ishida e trabalho junto com o Fernando.
+     Como a vaga para o estagio eh para o meu grupo de trabalho, estou
+     enviando-lhe este e-mail com os seguintes objetivos:
+     - Relacionar os requisitos necessarios do(a) candidato(a).
+     - Relacionar o foco e as atividades previstas.
+     - Esclarecer as expectativas da empresa e do(a) candidato(a) em
+     relacao ao estagio.
+
+     Caso voce atenda aos requisitos, o foco e as atividades estejam dentro
+     do que voce espera e voce acredite atender as expectativas da empresa,
+     envie-me uma resposta para marcarmos uma entrevista o mais breve
+     possivel.
+
+     Obrigado.
+     Helio.
+
+
+     Pre-requisitos necessarios para o estagio:
+     - Formando em dez/98.
+     - Situacao escolar normal: isto eh, sem dps.
+     - Disponibilidade continua e uniforme ao longo de 95% do ano (5%
+     sao os dias de prova). Observe que nao esta se definindo um numero
+     minimo de horas e sim continuidade e uniformidade.
+
+     Atividades previstas para o estagio:
+     = Focos:
+       - 80% desenvolvimento de aplicacoes.
+       - 10% documentacao de projetos e procedimentos.
+       - 10% suporte de infra-estrutura e sistemas.
+
+     = Desenvolvimento:
+       - Area de negocio atendida: Treasury (Mesa de Operacoes).
+       - O que voce pode aprender: Funcionamento do mercado financeiro,
+         bolsas, politica economica e economia mundial.
+       - Ambiente: Unix Solaris e SunOS, W95.
+       - Programacao (por ordem de volume): Applix-ELF, VB, C.
+       - Aplicacoes:
+         Client-Server (PC/VB,Sun/Applix-ELF/C, Sun/Sybase).
+         Real-Time (Sun/Teknekron RT Data-Distributor/Applix).
+
+     = Documentacao de projetos e procedimentos.
+       - Metodos estruturados de desenvolvimento de aplicacoes.
+
+     = Suporte de infra-estrutura e sistemas.
+       - Atendimento a problemas nas aplicacoes dos usuarios.
+       - Atendimento a problemas em processos servidores.
+
+
+From sandrab@tigre.dc.ufscar.br Fri Dec  5 17:28 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA19474; Fri, 5 Dec 1997 17:28:19 -0200
+Received: from luz.lexxa.com.br (luz.lexxa.com.br [200.245.13.11]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with ESMTP id QAA14986 for <estag98-l@tigre.dc.ufscar.br>; Fri, 5 Dec 1997 16:21:26 -0200
+Received: from vudqpplf ([200.245.13.35]) by luz.lexxa.com.br
+          (Netscape Mail Server v2.02) with ESMTP id AAA195;
+          Fri, 5 Dec 1997 17:19:42 -0300
+From: "Fernanda Kussama Pellegrini" <pellegrini@lexxa.com.br>
+To: "Lista de Estagio" <estag98-l@tigre.dc.ufscar.br>, <sandrab@dc.ufscar.br>
+Subject: ABPL
+Date: Fri, 5 Dec 1997 17:19:31 +0100
+X-Msmail-Priority: Normal
+X-Priority: 3
+X-Mailer: Microsoft Internet Mail 4.70.1157
+Mime-Version: 1.0
+Message-Id: <19971205201941180.AAA195@vudqpplf>
+Content-Transfer-Encoding: quoted-printable
+X-Mime-Autoconverted: from 8bit to quoted-printable by tigre.dc.ufscar.br id QAA14987
+X-Lines: 18
+Content-Transfer-Encoding: quoted-printable
+Status: RO
+X-Status: 
+Content-Type: text/plain; charset="ISO-8859-1"; conversions="quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable"
+Content-Length: 516
+
+Sandra,
+
+	Hoje eu fui na IBM e n=E3o vi o seu recado sobre a ABPL que voc=EA coloc=
+ou
+ontem. Mas a Patr=EDcia me disse que ficou marcado para segunda, dia 8 de
+dezembro pela manh=E3.
+	O dia para mim =E9 pess=EDmo, mas confirmo a presen=E7a mesmo assim.
+	Se algu=E9m puder ver qual =E9 o meu hor=E1rio e enviar um e-mail para m=
+im,
+agradeceria muito. Quem quiser carona para ir para Ribeir=E3o segunda-fei=
+ra,
+tamb=E9m =E9 s=F3 falar comigo.
+
+
+
+				Fernanda Kussama Pellegrini (BCC95)
+				pellegrini@lexxa.com.br
+
+
+From sandrab@tigre.dc.ufscar.br Tue Dec  9 17:54 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA12764; Tue, 9 Dec 1997 17:53:58 -0200
+Received: from power.ufscar.br (power.ufscar.br [200.9.84.65]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id QAA15156 for <estag98-l@tigre.dc.ufscar.br>; Tue, 9 Dec 1997 16:53:19 -0200
+Received: from dc1.comp.ufscar.br by power.ufscar.br via SMTP (951211.SGI.8.6.12.PATCH1502/911001.SGI)
+	for <estag98-l@tigre.dc.ufscar.br> id LAA23132; Thu, 4 Dec 1997 11:59:59 -0300
+Message-Id: <34870B41.23EB@hotmail.com>
+Date: Thu, 04 Dec 1997 11:57:53 -0800
+From: Marlon Deivis Kotai Costa <kotai@hotmail.com>
+Organization: DC-UFSCar
+X-Mailer: Mozilla 3.0Gold (Win16; I)
+Mime-Version: 1.0
+To: estag98-l@tigre.dc.ufscar.br
+Subject: ITGS
+Content-Transfer-Encoding: quoted-printable
+X-Mime-Autoconverted: from 8bit to quoted-printable by tigre.dc.ufscar.br id QAA15157
+X-Lines: 5
+Content-Transfer-Encoding: quoted-printable
+Status: RO
+X-Status: 
+Content-Type: text/plain; charset="iso-8859-1"; conversions="quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable"
+Content-Length: 139
+
+Graziela e Eliana,
+Por favor confirmem urgente com a Sandra uma data em que vcs est=E3o
+dispon=EDveis para irem =E0 ITGS.
+Obrigado,
+Marlon
+
+From sandrab@tigre.dc.ufscar.br Tue Dec  9 17:54 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA12768; Tue, 9 Dec 1997 17:54:02 -0200
+Received: from power.ufscar.br (power.ufscar.br [200.9.84.65]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id QAA15154 for <estag98-l@tigre.dc.ufscar.br>; Tue, 9 Dec 1997 16:53:19 -0200
+Received: from dc1.comp.ufscar.br by power.ufscar.br via SMTP (951211.SGI.8.6.12.PATCH1502/911001.SGI)
+	for <estag98-l@tigre.dc.ufscar.br> id LAA21812; Thu, 4 Dec 1997 11:24:58 -0300
+Message-Id: <3487030B.67F7@hotmail.com>
+Date: Thu, 04 Dec 1997 11:22:51 -0800
+From: Marlon Deivis Kotai Costa <kotai@hotmail.com>
+Organization: DC-UFSCar
+X-Mailer: Mozilla 3.0Gold (Win16; I)
+Mime-Version: 1.0
+To: estag98-l@tigre.dc.ufscar.br
+Subject: ABPL
+Content-Transfer-Encoding: quoted-printable
+X-Mime-Autoconverted: from 8bit to quoted-printable by tigre.dc.ufscar.br id QAA15155
+X-Lines: 8
+Content-Transfer-Encoding: quoted-printable
+Status: RO
+X-Status: 
+Content-Type: text/plain; charset="iso-8859-1"; conversions="quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable"
+Content-Length: 134
+
+Evelyse,
+
+	Fale com a Sandra ou com a Ana ou comigo urgente.
+=C9 sobre a ABPL!!!
+
+
+					Fernanda (BCC95)
+					pellegrini@lexxa.com.br
+
+From sandrab@tigre.dc.ufscar.br Tue Dec  9 19:34 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA13272; Tue, 9 Dec 1997 19:34:44 -0200
+Received: from leao (leao.dc.ufscar.br [200.18.99.4]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id SAA15750 for <estag98-l@tigre>; Tue, 9 Dec 1997 18:33:23 -0200
+Received: from leopardo.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA13264; Tue, 9 Dec 1997 19:33:23 -0200
+Received: by leopardo.ufscar.br (SMI-8.6/SMI-SVR4)
+	id TAA06089; Tue, 9 Dec 1997 19:34:47 -0200
+Date: Tue, 9 Dec 1997 19:34:47 -0200
+From: sandra@leao.dc.ufscar.br (Profa Dra Sandra Abib)
+Message-Id: <199712092134.TAA06089@leopardo.ufscar.br>
+To: estag98-l@tigre.dc.ufscar.br
+Subject: Recebido da Software Design.
+X-Sun-Charset: ISO-8859-1
+Content-Type: text
+Content-Length: 1447
+X-Lines: 57
+Status: RO
+X-Status: 
+
+	Pessoal, aqui esta a copia integral do e-mail recebido
+da Soft. Design.
+
+	*******************************************
+
+Prezada Profa. Dra. Sandra,
+
+	recebemos dessa universidade alguns currículos por intermédio
+do aluno Gustavo Zambon Atvars que aqui é estágiario .
+
+	Após análise selecionamos os candidatos a seguir:
+
+	1- Hemely Tavares da Silva
+	2- Osvaldo Martinelli Filliettaz
+	3- Leonardo Antônio de Andrade
+	4- Luís Gustavo da Silva Dias
+	5- Fernando Taniguti
+	6- Flávia Regina Munhoz
+	7- Arley Eiji Eishima
+	8- Cristiano Lamberti
+	9- Evelise Yoshimi
+	10- Marcelo Teruhiko Bo
+	11- José Ricardo Niero Alves
+	12- Mônica de Grazia Henrique
+	13- Eduardo de Almeida Paiva
+	14- Denilson de Oliveira Biffi
+	15- Sérgio Luiz Batista
+	16- Luciano Cerqueira Torres
+	17- Cássio Rogério Celestino dos Santos
+	18- Tieme Christine Sakata
+	19- Maurício Gióia
+	20- Tédi Itamar Zanfolim
+
+	Gostaríamos que estes candidatos entrassem em contato conosco para
+agendar um teste.
+
+	É um teste de autoaprendizado que todos os candidatos fazem e
+é eliminatório.
+
+	Tem duração de +/- 4h.
+
+	Posso marcar com até 04 candidatos por dia.
+
+	Com relação à vaga, posso dizer que é para a área de Tecnologia,
+para testar ferramentas.
+
+	Caso queira maiores informações sobre a vaga pode falar 
+com Carlos André no fone 019-254.6518 ou candre@terra.softdes.com.br.
+
+	Qualquer dúvida estamos à disposição.
+
+
+	Qualquer dúvida estamos à disposição.
+
+	Atenciosamente,
+
+	Bernardete
+
+From sandrab@tigre.dc.ufscar.br Wed Dec 10 16:19 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA22303; Wed, 10 Dec 1997 16:19:45 -0200
+Received: from leao (leao.dc.ufscar.br [200.18.99.4]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id PAA14573 for <estag98-l@tigre>; Wed, 10 Dec 1997 15:17:11 -0200
+Received: by leao (5.x/SMI-SVR4)
+	id AA22246; Wed, 10 Dec 1997 16:17:16 -0200
+Date: Wed, 10 Dec 1997 16:17:16 -0200
+From: juliana@leao.dc.ufscar.br (Juliana Maria Affonso - ITI - Profa. Junia)
+Message-Id: <9712101817.AA22246@leao>
+To: estag98-l@tigre.dc.ufscar.br
+Subject: URGENTE!!!!
+X-Sun-Charset: US-ASCII
+Content-Type: text
+Content-Length: 278
+X-Lines: 9
+Status: RO
+X-Status: 
+
+Gente, 
+
+A Sandra pediu pra todo mundo que for fazer estagio ou trabalho de graduacao 
+preencher um papel na secretaria com nome e nome da empresa onde for estagiar.
+Quem ainda nao tiver estagio, colocar o nome e deixar o nome da empresa em
+branco.
+
+			Ateh mais,
+					Juliana.
+
+From sandrab@tigre.dc.ufscar.br Mon Dec 15 15:59 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA03407; Mon, 15 Dec 1997 15:59:52 -0200
+Received: from fastec.fastec.com.br (root@fastec.fastec.com.br [200.231.49.73]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with ESMTP id OAA01372 for <estag98-l@tigre.dc.ufscar.br>; Mon, 15 Dec 1997 14:59:47 -0200
+Received: from fastec.com.br.fastec.com.br (ppp-3.fastec.com.br [200.231.49.76])
+	by fastec.fastec.com.br (8.8.5/8.8.5) with ESMTP id PAA00917
+	for <estag98-l@tigre.dc.ufscar.br>; Mon, 15 Dec 1997 15:01:52 -0200
+Message-Id: <199712151701.PAA00917@fastec.fastec.com.br>
+From: "torashi" <torashi@fastec.com.br>
+To: <estag98-l@tigre.dc.ufscar.br>
+Subject: Feliz Natal!
+Date: Mon, 15 Dec 1997 15:57:26 -0200
+X-Msmail-Priority: Normal
+X-Priority: 3
+X-Mailer: Microsoft Internet Mail 4.70.1155
+Mime-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+X-Mime-Autoconverted: from 8bit to quoted-printable by tigre.dc.ufscar.br id PAA01384
+X-Lines: 6
+Content-Transfer-Encoding: quoted-printable
+Status: RO
+X-Status: 
+Content-Type: text/plain; charset="ISO-8859-1"; conversions="quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable"
+Content-Length: 185
+
+=C0 todos os colegas, futuros estagi=E1rios, um bom descanso, um feliz na=
+tal, e
+um grande 1998! Que todos aproveitem pra descansar agora, pois no
+est=E1gio...
+Abra=E7os,
+Batata EnC94
+
+From sandrab@tigre.dc.ufscar.br Mon Dec 15 16:01 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA03428; Mon, 15 Dec 1997 16:01:14 -0200
+Received: from fastec.fastec.com.br (root@fastec.fastec.com.br [200.231.49.73]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with ESMTP id OAA01378 for <estag98-l@tigre.dc.ufscar.br>; Mon, 15 Dec 1997 14:59:53 -0200
+Received: from fastec.com.br.fastec.com.br (ppp-3.fastec.com.br [200.231.49.76])
+	by fastec.fastec.com.br (8.8.5/8.8.5) with ESMTP id PAA00914
+	for <estag98-l@tigre.dc.ufscar.br>; Mon, 15 Dec 1997 15:01:49 -0200
+Message-Id: <199712151701.PAA00914@fastec.fastec.com.br>
+From: "torashi" <torashi@fastec.com.br>
+To: <estag98-l@tigre.dc.ufscar.br>
+Subject: Para Sandra Abib
+Date: Mon, 15 Dec 1997 15:53:37 -0200
+X-Msmail-Priority: Normal
+X-Priority: 3
+X-Mailer: Microsoft Internet Mail 4.70.1155
+Mime-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+X-Mime-Autoconverted: from 8bit to quoted-printable by tigre.dc.ufscar.br id PAA01394
+X-Lines: 19
+Content-Transfer-Encoding: quoted-printable
+Status: O
+X-Status: 
+Content-Type: text/plain; charset="ISO-8859-1"; conversions="quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable"
+Content-Length: 687
+
+Prof. Sandra,
+
+Fui =E0 VDO hoje e, como eles haviam pedido, levei um atestado de matr=ED=
+cula.
+No entanto, o atestado que levei n=E3o servia pois apenas informava que e=
+u
+estava matriculado no semestre. Eles querem um atestado que indique em qu=
+al
+ano eu estou. Amanh=E3 (16/12) eu vou a=ED pra S=E3o Carlos, e pe=E7o l=E1=
+ no DICA.
+Outra coisa, vou precisar levar esse atestado pra eles at=E9 quarta, depo=
+is
+vou retornar =E0 S=E3o Carlos de novo com o contrato deles, que deve ser
+assinado e entregue at=E9 sexta, pois eles entrar=E3o em f=E9rias coletiv=
+as at=E9
+janeiro. Ser=E1 que a papelada a=ED j=E1 est=E1 pronta? Bom, a gente se f=
+ala
+depois. Um abra=E7o,
+Batata - EnC94
+
+From sandrab@tigre.dc.ufscar.br Tue Dec 16 14:12 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA12311; Tue, 16 Dec 1997 14:11:58 -0200
+Received: from leao (leao.dc.ufscar.br [200.18.99.4]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id NAA11398 for <estag98-l@tigre>; Tue, 16 Dec 1997 13:10:42 -0200
+Received: from leopardo.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA12160; Tue, 16 Dec 1997 14:09:52 -0200
+Received: from localhost by leopardo.ufscar.br (SMI-8.6/SMI-SVR4)
+	id OAA24828; Tue, 16 Dec 1997 14:11:12 -0200
+Date: Tue, 16 Dec 1997 14:11:10 -0200 (EDT)
+From: "Flavia Regina Munhoz - ITI - PADCT - Prof. Saito" <flaviar@leopardo.dc.ufscar.br>
+To: torashi <torashi@fastec.com.br>
+Cc: estag98-l@tigre.dc.ufscar.br
+Subject: Re: Feliz Natal!
+In-Reply-To: <199712151701.PAA00917@fastec.fastec.com.br>
+Message-Id: <Pine.GSO.3.94.971216140709.24703A-100000@leopardo>
+Mime-Version: 1.0
+X-Lines: 20
+Status: O
+X-Status: 
+Content-Type: TEXT/PLAIN; charset="US-ASCII"
+Content-Length: 556
+
+
+Ola Batata! Tudo bem?
+
+Nao tem jeito, de novo eu vi Torashi no meu inbox e fiquei sem saber quem
+era!!!
+E ai? So vira para Sao Carlos no dia da matricula? Eu pra variar estou
+aqui... tentando fazer alguma coisa na bendita bolsa (que gracas a Deus
+esta no fim)!
+
+Bom, tambem gostaria de desejar um otimo Natal para voce e toda a sua
+familia e que o ano novo seja ainda melhor! Muito trabalho, muito
+dinheiro, muita saude e ... muita diversao! 
+
+Beijos, beijos e beijos
+
+          
+Nao deixe de escrever...
+             
+                            Flavia
+
+
+From sandrab@tigre.dc.ufscar.br Thu Dec 18 12:30 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA01453; Thu, 18 Dec 1997 12:30:38 -0200
+Received: from leao (leao.dc.ufscar.br [200.18.99.4]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id LAA01475 for <estag98-l@tigre>; Thu, 18 Dec 1997 11:28:30 -0200
+Received: by leao (5.x/SMI-SVR4)
+	id AA01432; Thu, 18 Dec 1997 12:27:51 -0200
+Date: Thu, 18 Dec 1997 12:27:51 -0200
+From: sandra@leao.dc.ufscar.br (Profa Dra Sandra Abib)
+Message-Id: <9712181427.AA01432@leao>
+To: estag98-l@tigre.dc.ufscar.br
+Subject: Fim de Ano..
+X-Sun-Charset: US-ASCII
+Content-Type: text
+Content-Length: 815
+X-Lines: 19
+Status: RO
+X-Status: 
+
+	Quero agradecer a todos os alunos que colaboraram na busca 
+de melhores ofertas de estagios, e tambem desejar-lhes um FELIZ Na-
+tal e um ANo Novo cheio de paz, tranquilidade e alegria para poder-
+mos dar continuidade as nossas atividades.
+
+	Se alguma falha ocorreu durante o Ano, peco desculpas, mas e' 
+atraves de erros que aprendemos.
+
+	Nao se esquecam de trazer o plano de trabalho e o termo de 
+compromisso no dia da matricula. Nao se preocupem com os orientadores 
+daqui. O mais importante: Estagio e' uma disciplina como outra qual-
+quer, entao nao deve ser encarada como uma responsabilidade mais para 
+a empresa do que as propostas dadas por seus orientadores.
+
+	FELIZ 1998 e bom estagio a todos. Tirem o melhor proveito dos 
+trabalhos que voces desenvolverao nas respectivas areas.
+
+	Ate' breve,
+		Sandra
+
+From sandrab@tigre.dc.ufscar.br Thu Dec 18 16:13 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA04172; Thu, 18 Dec 1997 16:13:46 -0200
+Received: from stimpy.globecomm.net (stimpy.globecomm.net [207.51.48.4]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with ESMTP id PAA02246 for <estag98-l@tigre.dc.ufscar.br>; Thu, 18 Dec 1997 15:11:32 -0200
+Received: from leopardo (leopardo.dc.ufscar.br [200.18.99.6]) by stimpy.globecomm.net (8.8.8/8.8.0) with SMTP id NAA21427 for <estag98-l@tigre.dc.ufscar.br>; Thu, 18 Dec 1997 13:00:43 -0500 (EST)
+Sender: bambam@globecomm.net
+Message-Id: <3499674F.44F9@iname.com>
+Date: Thu, 18 Dec 1997 16:11:27 -0200
+From: Renato Luis Rissardi <rissardi@iname.com>
+Organization: Eng. Computacao UFSCar
+X-Mailer: Mozilla 2.02 (X11; I; SunOS 5.5 sun4m)
+Mime-Version: 1.0
+To: estag98-l@tigre.dc.ufscar.br
+Subject: [Fwd: Lista EMPREGOS - 05/12 a 17/12/97]
+Content-Transfer-Encoding: quoted-printable
+X-Lines: 432
+Content-Transfer-Encoding: quoted-printable
+Status: RO
+X-Status: 
+Content-Type: text/plain; charset="iso-8859-1"; conversions="quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable"
+Content-Length: 11148
+
+Pessoal, caso interesse a alguem, deem uma olhadinha nesta mensagem que
+recebi:
+
+Monica Alvares de Albuquerque wrote:
+> =
+
+> Esta e' a lista EMPREGOS. Para se descadastrar, veja instrucoes ao final
+> desta mensagem. A lista empregos e' direcionada a profissionais e
+> empresarios, clientes da Worknet - http://www.worknet.com.br
+> ------------------------------------------------------------------------
+> =
+
+> 1. Oportunidades de emprego
+> 2. Banco de Profissionais
+> 3. Artigo: Como Elaborar Um Bom Curriculum Vitae
+> 4. Como enviar anuncios para a lista empregos
+> 5. Servicos para o empresario
+> 6. Publicacao de curriculum vitae na Internet
+> 7. Como sair da Lista Empregos Semanal
+> =
+
+> ------------------------------------------------------------------------
+> =
+
+> OPORTUNIDADES DE EMPREGO
+> =
+
+> ------------------------
+> =
+
+> Empresa: Worknet Internet Services
+> =
+
+> Texto: Precisamos de ESTUDANTES DE NIVEL SUPERIOR e FUNCIONARIOS PUBLICOS=
+=2E
+> Temos uma oportunidade para voce melhorar seus rendimentos (bico). Para s=
+e
+> inscrever, voce precisa conhecer muita gente em seu local de trabalho e t=
+er
+> um endereco de e-mail na internet. Envie e-mail, colocando "FUNCIONARIO
+> PUBLICO" ou "ESTUDANTE" no subject da mensagem. Contato: Sergio. E-mail:
+> sergio@worknet.com.br
+> =
+
+> --------------------
+> =
+
+> ATENCAO: QUANDO CONSULTAR UMA OFERTA DE EMPREGO EM NOSSO CATALOGO, ENVIE =
+SEU
+> CURRICULUM DIRETAMENTE PARA A EMPRESA QUE OFERECE A VAGA.
+> =
+
+> Veja em nosso banco de dados, no endereco http://www.worknet.com.br empre=
+sas
+> que estao selecionando os seguintes profissionais:
+> =
+
+> Analistas de Sistemas
+> =
+
+> Assistente Juridico
+> =
+
+> Engenheiro  Civil
+> =
+
+> Engenheiro Eletricista
+> =
+
+> Engenheiro Mecanico
+> =
+
+> Engenheiro em Telecomunicacoes
+> =
+
+> Gerente de Informatica
+> =
+
+> Gerente Comercial
+> =
+
+> Jornalista
+> =
+
+> Operador de Telemarketing
+> =
+
+> Professores com formacao em:
+>         - Administracao Hospitalar
+>         - Medicina e Enfermagem do Trabalho
+>         - Nefrologia
+>         - Nutricao
+>         - Metodologia da Pesquisa
+> =
+
+> Programadores
+> =
+
+> Programador HTML (p/ SP): enviar e-mail para   mario@diana.com.br
+> =
+
+> Propagandista Vendedor
+> =
+
+> Recepcionista
+> =
+
+> Representante Comercial
+> =
+
+> Supervisor de Servicos
+> =
+
+> Vendedor/Promotor
+> =
+
+> Vendedor Tecnico
+> =
+
+> ------------------------------------------------------------------------
+> =
+
+> BANCO DE PROFISSIONAIS
+> =
+
+> ----------------------
+> Mauricio Franzao
+> Area de Informatica
+> E-mail: afranzao@uol.com.br
+> Veja meu Curriculum Vitae completo em http://www.worknet.com.br
+> =
+
+> ----------------------
+> GERALDO HENRIQUE DE CASTRO
+> FINANCEIRA / ADMINISTRA=C7=C3O / MARKETING
+> Telefone: (031) 344 - 3827
+> Veja meu Curriculum Vitae completo em http://www.worknet.com.br
+> =
+
+> ----------------------
+> Ana Silvia Paiva
+> Secretaria / Depto. Administrativo
+> E-mail: stprivat@universe.com.br
+> Veja meu Curriculum Vitae completo em http://www.worknet.com.br
+> =
+
+> ----------------------
+> REINOR MUZEGANTE LEBR=C3O
+> Engenheiro Quimico
+> E-mail: reinor@netmogi.com.br
+> Veja meu Curriculum Vitae completo em http://www.worknet.com.br
+> =
+
+> ----------------------
+> OLAVO DE SOUZA PINTO JUNIOR
+> GERENCIA COMERCIAL / DIREITO
+> Telefone: souzapinto@mirassol.com.br
+> Veja meu Curriculum Vitae completo em http://www.worknet.com.br
+> =
+
+> ----------------------
+> Dario Ramos Filho
+> Desenhista Industrial e Designer (Criacao)
+> E-mail: drf@domain.com.br
+> Veja meu Curriculum Vitae completo em http://www.worknet.com.br
+> =
+
+> ----------------------
+> Jean  Richard de Pontes
+> Analista Programador / Administrador de Redes Locais
+> E-mail: jrichard@mandic.com.br
+> Veja meu Curriculum Vitae completo em http://www.worknet.com.br
+> =
+
+> ----------------------
+> Luis Joaquim Ferreira Vieira
+> =C1rea Financeira/Administrativa
+> Telefone: (011) 265-6315
+> Veja meu Curriculum Vitae completo em http://www.worknet.com.br
+> =
+
+> ----------------------
+> Ana Paula Gon=E7alves Pinto
+> Auxiliar Administrativo ou Secretaria
+> E-mail: babo@uninet.com.br
+> Veja meu Curriculum Vitae completo em http://www.worknet.com.br
+> =
+
+> ----------------------
+> J. M. V. P.
+> Area Administrativa/Comercial
+> Email: pepeleg@uol.com.br
+> Veja meu Curriculum Vitae completo em http://www.worknet.com.br
+> =
+
+> ----------------------
+> Flavia Barros Pereira
+> Area Financeira, Contas =E0 Pagar ou Inform=E1tica
+> E-mail: belo@urbi.com.br
+> Veja meu Curriculum Vitae completo em http://www.worknet.com.br
+> =
+
+> ----------------------
+> Fernando Trielli Nunes
+> Area administrativa e (ou) financeira.
+> E-mail: nunet@sysnetway.com.br
+> Veja meu Curriculum Vitae completo em http://www.worknet.com.br
+> =
+
+> ----------------------
+> A. C. M. T.
+> Area Administrativa/Financeira
+> E-mail: sunpage@netflash.com.br
+> Veja meu Curriculum Vitae completo em http://www.worknet.com.br
+> =
+
+> ----------------------
+> Roberto Josue Paz Dominguez
+> Area Administrativa em geral
+> e-mail: rdominguez@infolink.com.br
+> Veja meu Curriculum Vitae completo em http://www.worknet.com.br
+> =
+
+> ----------------------
+> Luiz Carlos Lyra de Lemos
+> =C1rea Financeira / Administrativa - Consultorias
+> E-mail: lyra@mandic.com.br
+> Veja meu Curriculum Vitae completo em http://www.worknet.com.br
+> =
+
+> ----------------------
+> Marcelo Almeida Franco
+> Area Administrativa
+> E-mail: mfranco@openlink.com.br
+> Veja meu Curriculum Vitae completo em http://www.worknet.com.br
+> =
+
+> ----------------------
+> Marco Aur=E9lio Juliano Longo
+> Assistente Administrativo; =C1rea de Inform=E1tica; Est=E1gios na =C1rea =
+de Direito
+> E-mail: rlongo@bsb.nutecnet.com.br
+> Veja meu Curriculum Vitae completo em http://www.worknet.com.br
+> =
+
+> -----------------------------------------------------------------------
+> =
+
+> COMO ELABORAR UM BOM CURRICULUM VITAE
+> =
+
+> Algumas dicas para a elaboracao de um bom curriculum vitae:
+> =
+
+> - Nao coloque numeros de documentos, como identidade, cpf, carteira de
+> habilitacao, etc., a nao ser estes dados sejam relevantes ao cargo
+> oferecido. Por exemplo, se o cargo e' de motorista, voce deve colocar o
+> numero de sua carteira de habilitacao. Se nao, voce deve apenas mencionar=
+
+> "possuo habilitacao" e, se for um requisito do emprego, veiculo proprio.
+> =
+
+> - Nao coloque informacoes desnecessarias. Hoje, o curriculum pequeno e' m=
+ais
+> valorizado do que o curriculum grande. Quanto mais resumido for o seu
+> curriculum, maior a probabilidade de o mesmo ser lido na integra.
+> =
+
+> - Evite incluir graus de escolaridade que o cargo nao exija. Por exemplo,=
+ se
+> voce tem 2o grau, nao mencione em que escola voce fez o primeiro grau. Da=
+
+> mesma forma, se voce tem curso superior, e' obvio que voce possui 2o grau=
+=2E
+> Entao, se voce possui curso superior, nao inclua onde nem quando fez o 2o=
+
+> grau, a nao ser que voce tenha feito curso tecnico.
+> =
+
+> - De um modo geral, procure incluir apenas dados realmente relevantes sob=
+re
+> sua vida. Voce nao precisa falar TUDO (especialmente o que pode atrapalha=
+r).
+> Fale apenas o necessario.
+> =
+
+> - Nao inclua diplomas, certificados, etc. em seu curriculum. Se a empresa=
+
+> quiser contrata-lo, pedira' seus documentos no momento da contratacao.
+> =
+
+> - Nao escreva PALAVRAS INTEIRAS EM LETRAS MAIUSCULAS. Atente para a estet=
+ica
+> do seu curriculum. Olhe para ele e veja se ele e' um documento facil de
+> consultar, curto, informativo e se tem um visual agradavel.
+> =
+
+> -----------------------------------------------------------------------
+> =
+
+> COMO PUBLICAR SEU CURRICULUM NA INTERNET
+> =
+
+> - Por que publicar meu curriculum vitae na internet ?
+> =
+
+> A publicacao de seu curriculum vitae na internet aumenta (e muito) as sua=
+s
+> chances de conseguir um bom emprego ou prestacao de servicos. Seu curricu=
+lum
+> fica disponivel 24 horas por dia, 7 dias por semana, para que as empresas=
+ o
+> acessem e conhecam seu perfil profissional. Alem do status pessoal e
+> profissional, colocar o curriculum na internet significa facilitar o cont=
+ato
+> do empregador com voce. Voce e' encontrado muito mais facilmente, e conco=
+rre
+> a vagas em todo o Brasil.
+> =
+
+> - Como publicar meu curriculum na internet ?
+> =
+
+> Basta acessar nossa home page: http://www.worknet.com.br e ver os detalhe=
+s
+> para publicacao. Se voce nao tiver um curriculum pronto, nos elaboramos o=
+
+> curriculum para voce, sem custo adicional. Voce pode enviar seu curriculu=
+m
+> tambem via e-mail para:
+> =
+
+> monica@worknet.com.br
+> =
+
+> - Depois de publicado, quem vera' meu curriculum ?
+> =
+
+> Nosso banco de dados recebe milhares de consultas por mes. Voce estara'
+> entre os curriculos acessados por estas empresas, e tera' chances muito
+> grandes de ser visto tambem.
+> =
+
+> ------------------------------------------------------------------------
+> SERVICOS PARA O EMPRESARIO
+> =
+
+> Disponiveis em nossa home page: http://www.worknet.com.br
+> =
+
+> - Publicacao GRATUITA de ofertas de empregos (vagas oferecidas em sua
+> empresa) em nossa home page e nesta lista, com milhares de assinantes
+> =
+
+> - Consulta gratuita ao nosso banco de profissionais, no mesmo endereco
+> acima, com mais de 500 profissionais disponiveis para contratacao imediat=
+a,
+> de todas as areas e profissoes, especializados ou nao.
+> =
+
+> - BANCO DE PROFISSIONAIS (todas as profissoes) - podem ser consultados ne=
+sta
+> mensagem ou em nossa home page http://www.worknet.com.br
+> =
+
+> - Desenvolvimento de home pages - se sua empresa quer mostrar seus produt=
+os
+> e servicos na internet, acesse http://www.worknet.com.br
+> =
+
+> -------------------------------------------------------------------------=
+
+> =
+
+> COMO PUBLICAR SEU ANUNCIO NO BANCO DE PROFISSIONAIS
+> =
+
+> A partir de agora, publicando seu curriculum vitae na internet voce entra=
+
+> automaticamente na secao "BANCO DE PROFISSIONAIS". Seu anuncio e' veicula=
+do
+> para toda a lista, e seu curriculum vitae fica disponivel para empresas d=
+e
+> todo o Brasil, em nosso banco de profissionais on-line, durante UM ANO. V=
+eja
+> maiores informacoes em http://www.worknet.com.br
+> =
+
+> COMO PUBLICAR UM ANUNCIO DE VAGA EM SUA EMPRESA (OFERTA DE EMPREGO)
+> =
+
+> Basta acessar nossa home page e cadastrar, gratuitamente, a vaga oferecid=
+a
+> em sua empresa no BANCO DE OFERTAS DE EMPREGO. Veja mais detalhes em:
+> http://www.worknet.com.br
+> =
+
+> ------------------------------------------------------------------------
+> =
+
+> Como se descadastrar da lista empregos:
+> =
+
+> - Se voce NAO quiser mais receber mensagens da lista EMPREGOS, envie um
+> e-mail para:
+> =
+
+> monica@worknet.com.br
+> =
+
+> Solicitando claramente sua intencao de ser retirado(a) da lista EMPREGOS.=
+
+> Nao se esqueca de informar o endereco de e-mail a retirar da lista!
+> =
+
+> Se voce tiver mais de um endereco de e-mail, forneca todos.
+> -------------------------------------------------------------------
+> =
+
+> Atenciosamente,
+> =
+
+> Monica A. Albuquerque
+> Worknet Internet services
+> http://www.worknet.com.br
+> (031) 716-1447
+> Lista EMPREGOS
+> =
+
+> Conheca a lista NAVEGUE FACIL: Cultura, lazer, compras, produtos, servico=
+s,
+> diversao e muito mais!
+
+From sandrab@tigre.dc.ufscar.br Fri Dec 19 12:26 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA11608; Fri, 19 Dec 1997 12:26:14 -0200
+Received: from hotmail.com (F6.hotmail.com [207.82.250.17]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id LAA00553 for <estag98-l@tigre.dc.ufscar.br>; Fri, 19 Dec 1997 11:25:41 -0200
+Received: (qmail 23084 invoked by uid 0); 19 Dec 1997 14:13:45 -0000
+Received: from 200.231.49.76 by www.hotmail.com with HTTP;
+	Fri, 19 Dec 1997 06:13:43 PST
+Message-Id: <19971219141345.23083.qmail@hotmail.com>
+X-Originating-Ip: [200.231.49.76]
+From: "Marcelo Bo" <teruhikobo@hotmail.com>
+To: estag98-l@tigre.dc.ufscar.br
+Subject: Para Sandra Abib
+Date: Fri, 19 Dec 1997 06:13:43 PST
+X-Lines: 13
+Status: RO
+X-Status: 
+Content-Type: text/plain
+Content-Length: 675
+
+Prof. Sandra
+Acho que o numero do telefone que voce me passou esta errado pois, ao 
+ligar,  recebo a inforamacao da Telesp que o numero nao existe. Poderia 
+confirmar para mim? O numero que voce me passou e (016) 260-8232. Sobre 
+a VDO, eles acham que o termo de compromisso deles e bastante parecido 
+com o da Federal, e provavelmente eles o enviarao via Fax pra que seja 
+analisado aí em Sao Carlos. Se nao tiver problema, eles acham que nao 
+precisara ser alterado. Por enquanto e isso. Qualquer problema, me 
+avisa. Obrigado e ate breve! Bom descanso! 
+Batata
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+From sandrab@tigre.dc.ufscar.br Fri Dec 19 17:50 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA14870; Fri, 19 Dec 1997 17:50:13 -0200
+Received: from audi.dglnet.com.br (root@sp.dglnet.com.br [200.246.231.48]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with ESMTP id QAA02040 for <estag98-l@tigre.dc.ufscar.br>; Fri, 19 Dec 1997 16:49:37 -0200
+Received: from NIK (pm1p2.sjbv.dglnet.com.br [200.246.56.99])
+	by audi.dglnet.com.br (8.8.5/8.8.5) with SMTP id RAA24971
+	for <estag98-l@tigre.dc.ufscar.br>; Fri, 19 Dec 1997 17:45:31 -0200
+Message-Id: <3480D2D0.29A9@dglnet.com.br>
+Date: Sat, 29 Nov 1997 18:43:28 -0800
+From: "Patricia C. Westin" <westin@dglnet.com.br>
+X-Mailer: Mozilla 2.02E-KIT  (Win95; I; 16bit)
+Mime-Version: 1.0
+To: estag98-l@tigre.dc.ufscar.br
+Subject: Para Sandra Abib
+References: <19971219141345.23083.qmail@hotmail.com>
+Content-Transfer-Encoding: quoted-printable
+X-Mime-Autoconverted: from 8bit to quoted-printable by tigre.dc.ufscar.br id QAA02041
+X-Lines: 18
+Content-Transfer-Encoding: quoted-printable
+Status: RO
+X-Status: 
+Content-Type: text/plain; charset="iso-8859-1"; conversions="quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable"
+Content-Length: 425
+
+Sandra,
+
+	Acabei de ficar sabendo que preciso de um atestado de matr=EDcula e=20
+um hist=F3rico escolar para o est=E1gio...
+	N=E3o consegui ligar no departamento, e como n=E3o posso ir at=E9 a=ED s=
+=F3=20
+para fazer o pedido na DICA, gostaria de te pedir mais este FAVORZ=C3O!!!=
+!
+	=C9 que =E9 meio urgente...
+
+
+	Por favor me envie not=EDcias...
+
+	Obrigada...
+
+	E desculpe por mais este trabalho...
+
+		Patr=EDcia Westin...
+
+From sandrab@tigre.dc.ufscar.br Tue Dec 23 11:35 EDT 1997
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA28084; Tue, 23 Dec 1997 11:35:26 -0200
+Received: from hotmail.com (F64.hotmail.com [207.82.250.150]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id KAA01237 for <estag98-l@tigre.dc.ufscar.br>; Tue, 23 Dec 1997 10:34:33 -0200
+Received: (qmail 23558 invoked by uid 0); 23 Dec 1997 13:30:14 -0000
+Received: from 200.251.103.42 by www.hotmail.com with HTTP;
+	Tue, 23 Dec 1997 05:30:13 PST
+Message-Id: <19971223133014.23557.qmail@hotmail.com>
+X-Originating-Ip: [200.251.103.42]
+From: "Cristiano Lamberti" <c_lamberti@hotmail.com>
+To: estag98-l@tigre.dc.ufscar.br
+Subject: Campeão!!!!
+    boundary="====================987654321_0==_"
+Date: Tue, 23 Dec 1997 05:30:13 PST
+Content-Type: multipart/mixed; boundary="====================987654321_0==_"
+X-Lines: 392
+Status: RO
+X-Status: 
+Content-Length: 23779      
+
+--====================987654321_0==_
+Content-Type: text/plain; charset="us-ascii"
+X-Sun-Content-Length: 164
+
+Aí vai um presentinho de final de ano para voces!!!!!
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+--====================987654321_0==_
+Content-Type: image/gif; name="vascogrande.gif"; conversions="x-uuencode"
+Content-Disposition: attachment; filename="vascogrande.gif"
+X-Sun-Content-Length: 23157
+
+begin 644 vascogrande.gif
+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
+`
+end
+--====================987654321_0==_
+Content-Type: text/plain; charset="us-ascii"
+X-Sun-Content-Length: 0
+
+
+--====================987654321_0==_--
+
+From sandrab@tigre.dc.ufscar.br Fri Jan  9 10:42 EDT 1998
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA01524; Fri, 9 Jan 1998 10:42:28 -0200
+Received: from leao (leao.dc.ufscar.br [200.18.99.4]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id JAA00855 for <estag98-l@tigre>; Fri, 9 Jan 1998 09:41:27 -0200
+Received: by leao (5.x/SMI-SVR4)
+	id AA01516; Fri, 9 Jan 1998 10:41:18 -0200
+Date: Fri, 9 Jan 1998 10:41:18 -0200
+From: sandra@leao.dc.ufscar.br (Profa Dra Sandra Abib)
+Message-Id: <9801091241.AA01516@leao>
+To: estag98-l@tigre.dc.ufscar.br
+Subject: Chamada para estagio
+Content-Type: X-sun-attachment
+X-Lines: 99
+Status: RO
+X-Status: 
+Content-Length: 3732       
+
+----------
+X-Sun-Data-Type: text
+X-Sun-Data-Description: text
+X-Sun-Data-Name: text
+X-Sun-Charset: us-ascii
+X-Sun-Content-Lines: 5
+X-Sun-Content-Length: 105
+
+	Oi pessoal, bom 98  a todos.
+	Olha o que chegou para mim.
+	Segue arquivo anexado.
+	[]s,
+         Sandra
+----------
+X-Sun-Data-Type: mail-message
+X-Sun-Data-Name: mail-message
+X-Sun-Content-Lines: 29
+X-Sun-Content-Length: 1361
+X-Sun-Charset: iso-8859-1
+
+Return-Path: webmaster@neting.com
+Received: from neting.com (neting.com [192.41.50.41]) by cnpdia.embrapa.br (8.7.4/8.7.3) with ESMTP id MAA23374 for <dalton@cnpdia.embrapa.br>; Thu, 8 Jan 1998 12:37:11 -0200
+Received: from uucp.mandic.com.br (uucp.mandic.com.br [200.246.227.138]) by neting.com (8.8.5) id MAA06086; Thu, 8 Jan 1998 12:17:59 -0200 (EDT)
+Received: from gandalf.mandic.com.br (gandalf [200.246.227.152])
+	by uucp.mandic.com.br (8.8.5/8.8.5) with SMTP id MAA26967;
+	Thu, 8 Jan 1998 12:16:56 -0200
+Received: from mandic.com.br (p04163.sp.mandic.com.br [200.245.217.163])
+	by gandalf.mandic.com.br (SMI-8.6/) with ESMTP id MAA05122;
+	Thu, 8 Jan 1998 12:16:47 -0200
+Message-ID: <34B4E01A.2B7D7BFC@mandic.com.br>
+Date: Thu, 08 Jan 1998 12:18:02 -0200
+From: Ken Fujioka <kfujioka@mandic.com.br>
+X-Mailer: Mozilla 4.03 [pt] (Win95; I)
+MIME-Version: 1.0
+To: webras-l@listas.ansp.br
+CC: webmasters@neting.com
+Subject: PROCURA-SE ESTAGIÁRIO
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-MIME-Autoconverted: from 8bit to quoted-printable by tigre.dc.ufscar.br id MAA24821
+
+Estou =E0 procura de estagi=E1rio para atuar com Internet, em n=EDvel t=E9=
+cnico
+ou superior, com bolsa-aux=EDlio. Caso voc=EAs conhe=E7am algu=E9m intere=
+ssado,
+pe=E7o que enviem e-mail (em private) para kfujioka@mandic.com.br
+
+[]s
+KEN
+----------
+X-Sun-Data-Type: default
+X-Sun-Data-Name: embr1
+X-Sun-Charset: iso-8859-1
+X-Sun-Content-Lines: 46
+X-Sun-Content-Length: 1822
+
+Return-Path: webmaster@neting.com
+Received: from neting.com (neting.com [192.41.50.41]) by cnpdia.embrapa.br (8.7.4/8.7.3) with ESMTP id OAA24051 for <dalton@cnpdia.embrapa.br>; Thu, 8 Jan 1998 14:57:34 -0200
+Received: from uucp.mandic.com.br (uucp.mandic.com.br [200.246.227.138]) by neting.com (8.8.5) id OAA15062; Thu, 8 Jan 1998 14:33:56 -0200 (EDT)
+Received: from gandalf.mandic.com.br (gandalf [200.246.227.152])
+	by uucp.mandic.com.br (8.8.5/8.8.5) with SMTP id MAA30974;
+	Thu, 8 Jan 1998 12:36:48 -0200
+Received: from mandic.com.br (p16043.sp.mandic.com.br [200.246.207.43])
+	by gandalf.mandic.com.br (SMI-8.6/) with ESMTP id MAA08021;
+	Thu, 8 Jan 1998 12:36:38 -0200
+Message-ID: <34B4E4BF.D4E3F2A1@mandic.com.br>
+Date: Thu, 08 Jan 1998 12:37:51 -0200
+From: Ken Fujioka <kfujioka@mandic.com.br>
+X-Mailer: Mozilla 4.03 [pt] (Win95; I)
+MIME-Version: 1.0
+To: webras-l@listas.ansp.br, webmasters@neting.com
+Subject: Re: PROCURA-SE ESTAGIÁRIO
+References: <34B4E01A.2B7D7BFC@mandic.com.br>
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-MIME-Autoconverted: from 8bit to quoted-printable by tigre.dc.ufscar.br id OAA26216
+
+Esqueci-me de acrescentar o seguinte:
+
+No e-mail (em private para kfujioka@mandic.com.br), falar resumidamente
+sobre: forma=E7=E3o acad=EAmica, experi=EAncias e conhecimentos.
+
+No caso de j=E1 haver desnvolvido na Web, indicar as URLs (mas isso n=E3o=
+ =E9
+premissa).
+
+Indicar a disponibilidade de hor=E1rio, regi=F5es onde mora e estuda e
+pretens=E3o financeira.
+
+[]s
+KEN
+
+Ken Fujioka escreveu:
+>=20
+> Estou =E0 procura de estagi=E1rio para atuar com Internet, em n=EDvel t=
+=E9cnico
+> ou superior, com bolsa-aux=EDlio. Caso voc=EAs conhe=E7am algu=E9m inte=
+ressado,
+> pe=E7o que enviem e-mail (em private) para kfujioka@mandic.com.br
+>=20
+> []s
+> KEN
+
+From sandrab@tigre.dc.ufscar.br Fri Jan  9 18:18 EDT 1998
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA05318; Fri, 9 Jan 1998 18:18:14 -0200
+Received: from hotmail.com (F3.hotmail.com [207.82.250.14]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id RAA05723 for <estag98-l@tigre.dc.ufscar.br>; Fri, 9 Jan 1998 17:17:38 -0200
+Received: (qmail 29479 invoked by uid 0); 9 Jan 1998 20:12:58 -0000
+Received: from 200.245.179.150 by www.hotmail.com with HTTP;
+	Fri, 09 Jan 1998 12:12:56 PST
+Message-Id: <19980109201258.29478.qmail@hotmail.com>
+X-Originating-Ip: [200.245.179.150]
+From: "Frederico Moreira" <fmmoreira@hotmail.com>
+To: estag98-l@tigre.dc.ufscar.br
+Subject: Pagamento de Janeiro da Engenharia de Computação
+Date: Fri, 09 Jan 1998 18:12:56 EDT
+X-Lines: 18
+Status: RO
+X-Status: 
+Content-Type: text/plain
+Content-Length: 797
+
+Ola pessoal,
+
+     Estou enviando este e-mail para lembrá-los que o valor do pagamento 
+da mensalidade de janeiro é R$ 30,00, a ser depositado até o dia 12/01.
+    Peço que avisem aqueles que ainda não estavam informados sobre isto.
+    Peço desculpas pelo atraso na planilha e estarei diponibilizando-a 
+até o dia 20/01, de qualquer forma, mantenham seus depósitos em dia.
+    Eu vou estar enviando a planilha através desta lista.
+    Qualquer dúvida, meu e-mail é fmmoreira@hotmail.com.
+    Por favor me enviem e-mail para que eu possa ter o e-mail de todo 
+mundo.
+
+                   Atenciosamente,
+                  Frederico Maciel Moreira
+                  Comissão de Formatura
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+From sandrab@tigre.dc.ufscar.br Sat Jan 10 12:01 EDT 1998
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA07289; Sat, 10 Jan 1998 12:01:02 -0200
+Received: from hotmail.com (F72.hotmail.com [207.82.250.158]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id LAA07117 for <estag98-l@tigre.dc.ufscar.br>; Sat, 10 Jan 1998 11:00:37 -0200
+Received: (qmail 6700 invoked by uid 0); 10 Jan 1998 13:56:04 -0000
+Received: from 200.251.103.3 by www.hotmail.com with HTTP;
+	Sat, 10 Jan 1998 05:55:58 PST
+Message-Id: <19980110135604.6699.qmail@hotmail.com>
+X-Originating-Ip: [200.251.103.3]
+From: "Cristiano Lamberti" <c_lamberti@hotmail.com>
+To: estag98-l@tigre.dc.ufscar.br
+Subject: Republica
+Date: Sat, 10 Jan 1998 05:55:58 PST
+X-Lines: 12
+Status: RO
+X-Status: 
+Content-Type: text/plain
+Content-Length: 314
+
+Caros colegas,
+
+gostaria de saber se há alguém morando em república em Sao Paulo e tem 
+vaga disponível. Ou se há alguém procurando algo para alugar.
+
+Abracos,
+
+Cristiano Lamberti
+c_lamberti@hotmail.com
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+From piu97@hotmail.com Fri Jan 16 14:58 EDT 1998
+Return-Path: <piu97@hotmail.com>
+Received: from hotmail.com (F102.hotmail.com) by leao (5.x/SMI-SVR4)
+	id AA12272; Fri, 16 Jan 1998 14:58:16 -0200
+Received: (qmail 15113 invoked by uid 0); 16 Jan 1998 16:54:06 -0000
+Received: from 143.107.238.164 by www.hotmail.com with HTTP;
+	Fri, 16 Jan 1998 08:54:03 PST
+Message-Id: <19980116165406.15112.qmail@hotmail.com>
+X-Originating-Ip: [143.107.238.164]
+From: "Erico Rocha" <piu97@hotmail.com>
+To: malara@dc.ufscar.br
+Subject: Re: MCSE
+Date: Fri, 16 Jan 1998 08:54:03 PST
+X-Lines: 48
+Status: RO
+X-Status: 
+Content-Type: text/plain
+Content-Length: 1384
+
+
+
+>From malara@dc.ufscar.br Wed Jan  7 04:07:59 1998
+>Received: by leao (5.x/SMI-SVR4)
+>	id AA09492; Wed, 7 Jan 1998 10:11:43 -0200
+>Date: Wed, 7 Jan 1998 10:11:43 -0200
+>From: malara@dc.ufscar.br (Rodrigo Daniel Malara - bolsista PIBIC/CNPq 
+- Prof. Dr. Marcos Luiz Mucheroni)
+>Message-Id: <9801071211.AA09492@leao>
+>To: piu97@hotmail.com
+>Subject: MCSE
+>X-Sun-Charset: US-ASCII
+>
+>	E ai Erico
+>
+>	Antes de tudo, quero deseja um Feliz Natal meio atrasado e um Novo Ano 
+de prosperidades e conquistas.
+>
+>	To ti mandando este meiu para confirmar a data em que comecaremos a 
+mexer com o MCSE.
+>
+>	Estou meio enrolado, aqui por Sao Carlos, entao vamos marcar uma data 
+para comecarmos.
+>
+>	Para mim, pode ser la por 20 de janeiro (data da matricula).
+>	O conteudo do livro e simples e sucinto e nao acho que vamos perder 
+muito tempo para estuda-lo.
+>
+>	ate mais
+>		Rodrigo Malara
+>
+>
+    Malara,
+
+   E ai como e que foi ferias? Espero que tenha aproveitado bastante. As 
+minhas ja acabaram, ja estou em Sao Carlos
+
+   Quanto ao MCSE estou pronto e muito motivado pra comecar a estudar. 
+Assim que voce puder me de uma ligada ( (016)261-4654 ) pra gente 
+combinar tudo direitinho.
+
+
+                                Um Abraco
+
+                                            PIU
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+From sandrab@tigre.dc.ufscar.br Thu Jan 29 09:54 EDT 1998
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA01165; Thu, 29 Jan 1998 09:54:11 -0200
+Received: from leao (leao.dc.ufscar.br [200.18.99.4]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id IAA00416 for <estag98-l@tigre>; Thu, 29 Jan 1998 08:53:05 -0200
+Received: from leopardo.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA10684; Tue, 27 Jan 1998 18:35:20 -0200
+Received: by leopardo.ufscar.br (SMI-8.6/SMI-SVR4)
+	id SAA05032; Tue, 27 Jan 1998 18:36:00 -0200
+Date: Tue, 27 Jan 1998 18:36:00 -0200
+From: rsilva@leao.dc.ufscar.br (Roberto Aparecido Gonzaga Silva - Cesar)
+Message-Id: <199801272036.SAA05032@leopardo.ufscar.br>
+To: estag98-l@tigre.dc.ufscar.br
+Subject: ATENCAO
+X-Sun-Charset: US-ASCII
+Content-Type: text
+Content-Length: 274
+Status: RO
+X-Status: 
+X-Lines: 7
+
+ Pessoal,
+
+	Algumas pessoas estao devendo o Plano de Trabalho e o Plano de Compromisso de estagio para a Sandra. Outros nao assinaram o Plano de trabalho e o de Compromisso. Estas pessoas, favor entrar em contato o mais rapido possivel com a Sandra.
+
+		Ate mais
+			Roberto
+
+
+From sandrab@tigre.dc.ufscar.br Thu Jan 29 10:32 EDT 1998
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA02152; Thu, 29 Jan 1998 10:31:57 -0200
+Received: from hotmail.com (f125.hotmail.com [207.82.251.4]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id JAA01441 for <estag98-l@tigre.dc.ufscar.br>; Thu, 29 Jan 1998 09:31:20 -0200
+Received: (qmail 17272 invoked by uid 0); 29 Jan 1998 12:26:24 -0000
+Received: from 200.19.230.78 by www.hotmail.com with HTTP;
+	Thu, 29 Jan 1998 04:26:24 PST
+Message-Id: <19980129122624.17271.qmail@hotmail.com>
+X-Originating-Ip: [200.19.230.78]
+From: "Mauricio Fernando L. Pereira" <mauriciao@hotmail.com>
+To: estag98-l@tigre.dc.ufscar.br
+Subject: who
+Date: Thu, 29 Jan 1998 04:26:24 PST
+Status: RO
+X-Status: 
+X-Lines: 4
+Content-Type: text/plain
+Content-Length: 112
+
+
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+From piu97@hotmail.com Wed Feb  4 10:49 EDT 1998
+Return-Path: <piu97@hotmail.com>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA14993; Wed, 4 Feb 1998 10:48:57 -0200
+Received: from hotmail.com (f14.hotmail.com [207.82.250.25]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id JAA01205 for <malara@dc.ufscar.br>; Wed, 4 Feb 1998 09:48:33 -0200
+Received: (qmail 28832 invoked by uid 0); 4 Feb 1998 12:43:35 -0000
+Received: from 143.107.238.164 by www.hotmail.com with HTTP;
+	Wed, 04 Feb 1998 04:43:34 PST
+Message-Id: <19980204124335.28831.qmail@hotmail.com>
+X-Originating-Ip: [143.107.238.164]
+From: "Erico Rocha" <piu97@hotmail.com>
+To: malara@dc.ufscar.br
+Subject: sobre os estudos da msce
+Date: Wed, 04 Feb 1998 04:43:34 PST
+Status: RO
+X-Status: 
+X-Lines: 24
+Content-Type: text/plain
+Content-Length: 1171
+
+     E ai Malara, como e que vc vai indo? Eu imagino que vc deve estar 
+muito apertado com o seu programa de dephi e com a bolsa.
+     Pois e, eu ,o Romualdo, Euclides e o Baby estamos estudando o livro 
+de Network Excencials ,mas não esta tao rapido quanto eu pensava. 
+Estamos na pagina 167 e pra quinhentas faltam muitas. Mas o fato e que 
+ta bem legal e a gente ta entendendo bastante o conteudo.
+     E vc como e que esta, ja esta adiantado? Eu acho que o maior 
+problema do livro e que ele e em ingles. Paciencia?! 
+     Assim que vc puder me da uma liga, ou vai la em casa pra gente 
+conversar sobre a prova. O meu phone e 261-4654.
+     Ah antes que eu me esqueca se vc souber de alguem que venda celular 
+usado ou um novo muito barato me da um toque porque fui sorteado pra 
+comprar uma linha aqui em Sao Carlos mas nao tenho muito dinheiro pra 
+comprar o aparelho.
+     Bom deixa eu terminar o meu trabalho
+
+                                         Um abraco 
+
+                                               Piu
+
+                                    
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+From sandrab@tigre.dc.ufscar.br Wed Feb  4 21:10 EDT 1998
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA19670; Wed, 4 Feb 1998 21:10:21 -0200
+Received: from send1b.yahoomail.com (send1b.yahoomail.com [205.180.60.23]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id UAA01953 for <estag98-l@tigre.dc.ufscar.br>; Wed, 4 Feb 1998 20:09:15 -0200
+Received: from [200.231.49.76] by send1b; Wed, 04 Feb 1998 15:05:05 PST
+Message-Id: <19980204230505.7223.rocketmail@send1b.yahoomail.com>
+Date: Wed, 4 Feb 1998 15:05:05 -0800 (PST)
+From: Marcelo Teruhiko Bo <teruhikobo@yahoo.com>
+To: estag98-l@tigre.dc.ufscar.br
+Mime-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+X-Mime-Autoconverted: from 8bit to quoted-printable by tigre.dc.ufscar.br id UAA01954
+Status: RO
+X-Status: 
+X-Lines: 39
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="us-ascii"; conversions="quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable, quoted-printable quoted-printable"
+Content-Length: 1760
+
+Prof. Sandra, tudo bem?
+Recebeste meu e-mail sobre a disciplina Telecomunicacoes, que corre o
+risco de ser cortada por falta de matriculados pois muitos nao
+conseguiram se matricular devido a alguma falha do sistema? Se
+possivel avisar o Peninha eu agradeco. Esta dificil de conseguir falar
+com ele pois nao sobram brechas no estagio para eu poder telefonar.
+Alias, o estagio esta sendo bastante puxado mas estou gostando. No meu
+plano de trabalho eu havia colocado um mes para conclusao de um
+software em VB. Pois e, essa parte eu ja cumpri. O problema e que
+gostaram e agora eles querem uma coisa ainda mais sofisticada, com
+geracao de relatorios, graficos, e uma porcao de outras coisas. Vamos
+ver no que vai dar. Quando ao gerenciamento da rede, ate agora sem
+muitos problemas. Nao pude ainda aprender muito pois nao foi preciso.
+Entretanto, numa parte um pouco mais burocratica, em que estou
+coordenando uma primeira etapa sobre o problema do Ano 2000, ja
+participei de uma reuniao com todos os gerentes da empresa e mais o
+diretor - financeiro, que e um alemao e que e o segundo mais alto na
+escala hierarquica la de dentro. Amanha eu vou comandar uma outra
+reuniao.
+E, quem sabe um dia o Batata consiga crescer.
+
+A Procomp me mandou um e-mail e esta com o processo de selecao em
+andamento. Se alguem ainda tiver interesse, deve enviar um e-mail para
+rhsc@procomp.com.br
+
+As areas:
+
+Projetos e Ferramentas de Ger=EAncia de Rede.
+An=E1lise e Programa=E7=E3o orientada a objetos.
+Solu=E7=F5es Microsoft de sistemas operacionais, ambientes de
+desenvolvimento e
+arquitetura de aplica=E7=F5es.
+
+Sem mais por hoje,
+Batata EnC94
+_________________________________________________________
+DO YOU YAHOO!?
+Get your free @yahoo.com address at http://mail.yahoo.com
+
+
+From sandrab@tigre.dc.ufscar.br Fri Feb  6 12:39 EDT 1998
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA00883; Fri, 6 Feb 1998 12:39:03 -0200
+Received: from leao (leao.dc.ufscar.br [200.18.99.4]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with SMTP id LAA02353 for <estag98-l@tigre>; Fri, 6 Feb 1998 11:37:22 -0200
+Received: by leao (5.x/SMI-SVR4)
+	id AA00865; Fri, 6 Feb 1998 12:37:55 -0200
+Date: Fri, 6 Feb 1998 12:37:55 -0200
+From: sandra@leao.dc.ufscar.br (Profa Dra Sandra Abib)
+Message-Id: <9802061437.AA00865@leao>
+To: estag98-l@tigre.dc.ufscar.br
+Subject: Disciplinas....
+X-Sun-Charset: US-ASCII
+Content-Type: text
+Content-Length: 1026
+Status: RO
+X-Status: 
+X-Lines: 25
+
+	A todos os alunos.
+	Primeiro:
+	 quero saber dos alunos que ja' estao em programa de estagio 
+desde janeiro e nao entregaram a documentacao solicitada (termo de 
+compromisso e plano de trabalho assinado por ambos:  aluno e super-
+visor na empresa). Isso eu cansei de pedir. Onde esta' a responsa-
+bilidade de voces? 
+	Peco que se comuniquem entre si, pois ja' mandei e-mails
+para as empresas e nao consigo localizar alguns alunos do BCC que
+estao devendo documentacao. Fica isento o pessoal que esta' na
+Integris, pois eles ainda estao fazendo curso.
+
+	Segundo:
+	  ja' fiz a distrubuicao dos trabalhos e ainda estou aguar-
+dando os retardatarios para que eu possa concluir meu trabalho.
+
+	Terceiro:
+            QUem falou que a disciplina nao sera' oferecida? Quero
+saber.
+	Peco que se comuniquem entre si, pois ja' mandei e-mails
+para as empresas e nao consigo localizar alguns alunos do BCC que
+estao devendo documentacao. Fica isento o pessoal que esta' na
+Integris, pois eles ainda estao fazendo curso.
+	[]s,
+	     Sandra
+
+From malara@leao Fri Feb  6 18:23 EDT 1998
+Return-Path: <malara@leao>
+Received: from arquimedes.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA05370; Fri, 6 Feb 1998 18:23:54 -0200
+Received: from localhost by arquimedes.ufscar.br (5.x/SMI-SVR4)
+	id AA00806; Fri, 6 Feb 1998 18:13:44 -0200
+Date: Fri, 6 Feb 1998 18:13:43 -0200 (EDT)
+From: "Rodrigo Daniel Malara - Eng. Computacao" <malara@leao>
+X-Sender: malara@arquimedes
+To: "Rodrigo Daniel Malara - bolsista PIBIC/CNPq - Prof. Dr. Marcos Luiz Mucheroni" <malara@leao>
+Subject: OPS!!
+Message-Id: <Pine.GSO.3.94.980206181230.805A-100000@arquimedes>
+Mime-Version: 1.0
+Status: RO
+X-Status: 
+X-Lines: 6
+Content-Type: TEXT/PLAIN; charset="US-ASCII"
+Content-Length: 123
+
+
+	Seu alter-ego lhe avisa que vc anda meio esquecido e largou sua
+area aberta na arquimedes. CUIDADO!!! ;))
+
+PJ SysAdimin
+
+
+From sandrab@tigre.dc.ufscar.br Wed Feb 11 12:31 EST 1998
+Return-Path: <sandrab@tigre.dc.ufscar.br>
+Received: from tigre.dc.ufscar.br by leao (5.x/SMI-SVR4)
+	id AA16043; Wed, 11 Feb 1998 12:31:45 -0300
+Received: from ren.globecomm.net (ren.globecomm.net [207.51.48.3]) by tigre.dc.ufscar.br (8.8.7/8.7.3) with ESMTP id MAA02231 for <estag98-l@tigre.dc.ufscar.br>; Wed, 11 Feb 1998 12:29:07 -0300
+Received: from compaq2.cit.com.br ([200.246.37.91]) by ren.globecomm.net (8.8.8/8.8.0) with ESMTP id KAA05557; Wed, 11 Feb 1998 10:18:38 -0500 (EST)
+Message-Id: <199802111518.KAA05557@ren.globecomm.net>
+Reply-To: <rissardi@iname.com>
+From: "Renato Luis Rissardi" <rissardi@iname.com>
+To: "Marcelo Alves Cunha" <cunha@linkway.com.br>,
+        "Rog\irio" <rogerio@podium.com.br>,
+        "Arley Eiji Eishima" <arley@linkway.com.br>,
+        "Fl\avia Regina Munhoz" <flavia@cit.com.br>,
+        "Osvaldo Martineli Filliettaz" <filietas@hotmail.com>,
+        "Renato Lu\ms Rissardi" <rissardi@iname.com>,
+        "Toichiro Minamizawa" <minami@base.com.br>,
+        "Renata Helena Pisani" <g130176@polvo.ufscar.br>,
+        "Marcelo Teruhiko Bo" <teruhikobo@hotmail.com>,
+        "Lu\ms Gustavo da Silva Dias" <lgdias@dc.ufscar.br>,
+        "Lisangela Lara Calonico" <g130168@polvo.ufscar.br>,
+        "Leonardo Antonio Andrade" <leoandrade@yahoo.com>,
+        "Isana Luzia Seabra" <isanals@yahoo.com>,
+        "Hemely Tavares da Silva" <hemely@hotmail.com>,
+        "Guilherme Paolozzi" <paolozzi@dc.ufscar.br>,
+        "Frederico Maciel Moreira" <fmmoreira@hotmail.com>,
+        "Fernando Taniguti" <ftaniguti@sql.com.br>,
+        "Evelise Yoshimi" <evelise@fractal.com.br>,
+        "Cristiano Lamberti" <c_lamberti@hotmail.com>,
+        "Jos\i Ricardo Alves" <g130095@polvo.ufscar.br>
+Cc: <estag98-l@tigre.dc.ufscar.br>, <estag98@cit.com.br>
+Subject: En: Estagios !
+Date: Wed, 11 Feb 1998 12:23:16 -0300
+X-Msmail-Priority: Normal
+X-Priority: 3
+X-Mailer: Microsoft Internet Mail 4.70.1155
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+X-Lines: 25
+Status: RO
+Content-Type: text/plain; charset="ISO-8859-1"; conversions="7bit, 7bit, 7bit, 7bit, 7bit"
+Content-Length: 895
+
+Olha aih pessoal:
+
+Caso alguem se interesse...
+
+> Assunto: Estagios !
+> Data: Quarta-feira, 11 de Fevereiro de 1998 11:56
+> 
+> Fala ai pessoas,
+> 
+>   Por acaso alguem ai conhece algum trouxa que queira vir fazer estagio
+aqui
+> na Smar ?
+>   Estamos precisando de dois estagnarios para varrer o chao e tirara
+> xerox... Quer dizer um para trabalhar com hardware e outro com software
+!!!
+>   Brincadeiras a parte, caso conhecam alguem, o papo eh serio a Smar esta
+> procurando estagiarios para trabalhar aqui no desenvolvimento.
+> 
+> []s
+> 
+> ______________________________________________________________________
+> Rodrigo Fantinatti Teixeira       Smar Equipamentos Industriais Ltda
+> Engenheiro de Desenvolvimento     tel: +55 16 645 35 99  ramal 281
+> rteixeira@smar.com.br             Sertaozinho - Sao Paulo - Brasil
+> ______________________________________________________________________
+
+From piu97@hotmail.com Mon Feb 16 17:13 EST 1998
+Return-Path: <piu97@hotmail.com>
+Received: from hotmail.com (f149.hotmail.com) by leao (5.x/SMI-SVR4)
+	id AA17259; Mon, 16 Feb 1998 17:13:12 -0300
+Received: (qmail 10110 invoked by uid 0); 16 Feb 1998 17:21:53 -0000
+Received: from 143.107.238.164 by www.hotmail.com with HTTP;
+	Mon, 16 Feb 1998 09:21:52 PST
+Message-Id: <19980216172153.10109.qmail@hotmail.com>
+X-Originating-Ip: [143.107.238.164]
+From: "Erico Rocha" <piu97@hotmail.com>
+To: malara@dc.ufscar.br
+Subject: Mudei de telefone
+Date: Mon, 16 Feb 1998 09:21:52 PST
+X-Lines: 14
+Status: RO
+Content-Type: text/plain
+Content-Length: 584
+
+   Fala Malara, como e que vc vai? Comigo esta tudo joia fora este 
+relatorio de bolsa que eu estou escrevendo. 
+   Olha o telefone de casa mudou para (016)984-4721. Depois passa la em 
+casa ou me da uma telefonada para a gente conversar sobre o MCSE.
+   Eu e o pessoal estamos na pagina 300 do livro de Network Excencials 
+.Acho que não vai dar para terinar antes do carnaval.
+
+
+                                 Um Abraco 
+ 
+                                           Piu
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+From malara Tue Feb 17 15:30 EST 1998
+Return-Path: <Mailer-Daemon>
+Received: by leao (5.x/SMI-SVR4)
+	id AB29065; Tue, 17 Feb 1998 15:30:49 -0300
+Date: Tue, 17 Feb 1998 15:30:49 -0300
+From: Mailer-Daemon (Mail Delivery Subsystem)
+Subject: Returned mail: User unknown
+Message-Id: <9802171830.AB29065@leao>
+To: malara
+Content-Type: text
+Content-Length: 571
+X-Lines: 18
+Status: RO
+
+   ----- Transcript of session follows -----
+550 pj@leao... User unknown
+
+   ----- Unsent message follows -----
+Return-Path: <malara>
+Received: by leao (5.x/SMI-SVR4)
+	id AA29063; Tue, 17 Feb 1998 15:30:49 -0300
+Date: Tue, 17 Feb 1998 15:30:49 -0300
+From: malara (Rodrigo Daniel Malara - bolsista PIBIC/CNPq - Prof. Dr. Marcos Luiz Mucheroni)
+Message-Id: <9802171830.AA29063@leao>
+Errors-To: malara
+To: pj@leao
+Subject: Re: OPS!!
+X-Sun-Charset: US-ASCII
+
+Valeu pj quebrou a minha.
+
+Queria falar com voce sobre o IDL e o boxcouting. Si voce estiver por ai, me da um toque
+
+From malara Tue Feb 17 15:31 EST 1998
+Return-Path: <Mailer-Daemon>
+Received: by leao (5.x/SMI-SVR4)
+	id AB29086; Tue, 17 Feb 1998 15:31:17 -0300
+Date: Tue, 17 Feb 1998 15:31:17 -0300
+From: Mailer-Daemon (Mail Delivery Subsystem)
+Subject: Returned mail: User unknown
+Message-Id: <9802171831.AB29086@leao>
+To: malara
+Content-Type: text
+Content-Length: 587
+X-Lines: 18
+Status: RO
+
+   ----- Transcript of session follows -----
+550 pj@dc.ufscar.br... User unknown
+
+   ----- Unsent message follows -----
+Return-Path: <malara>
+Received: by leao (5.x/SMI-SVR4)
+	id AA29084; Tue, 17 Feb 1998 15:31:17 -0300
+Date: Tue, 17 Feb 1998 15:31:17 -0300
+From: malara (Rodrigo Daniel Malara - bolsista PIBIC/CNPq - Prof. Dr. Marcos Luiz Mucheroni)
+Message-Id: <9802171831.AA29084@leao>
+Errors-To: malara
+To: pj@dc.ufscar.br
+Subject: Re: OPS!!
+X-Sun-Charset: US-ASCII
+
+Valeu pj quebrou a minha.
+
+Queria falar com voce sobre o IDL e o boxcouting. Si voce estiver por ai, me da um toque
+
